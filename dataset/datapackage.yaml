@@ -1,353 +1,147 @@
-name: crimes-violentos
-owner_org: ''
 profile: data-package
+name: crimes-violentos
+title: Crimes Violentos
+description: Conjunto de dados em homologação para testar fluxo de documentação e publicação com template
+owner_org: secretaria-de-estado-de-justica-e-seguranca-publica-sejusp
+version: 0.1
+homepage: https://github.com/transparencia-mg/crimes-violentos
+contributors:
+  - title: Diretoria de Informações de Segurança Pública  
+    role: author
+    email: ramon.oliveira@seguranca.mg.gov.br
+  - title: Diretoria Central de Transparência Ativa
+    role: maintainer
+    email: transparencia@cge.mg.gov.br
+licenses:
+  - name: CC-BY-4.0
+    title: Creative Commons Attribution 4.0
+    path: https://creativecommons.org/licenses/by/4.0/
+frequência de atualização: mensal
+temporal:
+  - start: '2012-01-31'
+    end: '2023-06-30'
+keywords: 
+  - 'crimes'
+  - 'estatísticas criminais'
+  - 'segurança'
 resources:
-  - description: Insira a descrição/explicação detalhada deste recurso.
-    dialect:
-      delimiter: ;
+  - name: crimes_violentos_2012
+    title: Crimes Violentos 2012
+    dialect: schemas/dialect_v1.yaml
     encoding: utf-8-sig
     format: csv
     hashing: md5
-    name: crimes_violentos_2012
     path: data/crimes_violentos_2012.csv
     profile: tabular-data-resource
-    schema:
-      fields:
-        - name: registros
-          type: integer
-        - name: natureza
-          type: string
-        - name: municipio
-          type: string
-        - name: cod_municipio
-          type: integer
-        - name: mes
-          type: integer
-        - name: ano
-          type: integer
-        - name: risp
-          type: integer
-        - name: rmbh
-          type: string
+    schema: schemas/schema_v1.yaml
     scheme: file
-    title: Insira um título humanamente legível para este recurso.
-  - description: Insira a descrição/explicação detalhada deste recurso.
-    dialect:
-      delimiter: ;
+  - name: crimes_violentos_2013
+    title: Crimes Violentos 2013
+    dialect: schemas/dialect_v1.yaml
     encoding: utf-8-sig
     format: csv
     hashing: md5
-    name: crimes_violentos_2013
     path: data/crimes_violentos_2013.csv
     profile: tabular-data-resource
-    schema:
-      fields:
-        - name: registros
-          type: integer
-        - name: natureza
-          type: string
-        - name: municipio
-          type: string
-        - name: cod_municipio
-          type: integer
-        - name: mes
-          type: integer
-        - name: ano
-          type: integer
-        - name: risp
-          type: integer
-        - name: rmbh
-          type: string
+    schema: schemas/schema_v1.yaml
     scheme: file
-    title: Insira um título humanamente legível para este recurso.
-  - description: Insira a descrição/explicação detalhada deste recurso.
-    dialect:
-      delimiter: ;
+  - name: crimes_violentos_2014
+    title: Crimes Violentos 2014
+    dialect: schemas/dialect_v1.yaml
     encoding: utf-8-sig
     format: csv
     hashing: md5
-    name: crimes_violentos_2014
     path: data/crimes_violentos_2014.csv
     profile: tabular-data-resource
-    schema:
-      fields:
-        - name: registros
-          type: integer
-        - name: natureza
-          type: string
-        - name: municipio
-          type: string
-        - name: cod_municipio
-          type: integer
-        - name: mes
-          type: integer
-        - name: ano
-          type: integer
-        - name: risp
-          type: integer
-        - name: rmbh
-          type: string
+    schema: schemas/schema_v1.yaml
     scheme: file
-    title: Insira um título humanamente legível para este recurso.
-  - description: Insira a descrição/explicação detalhada deste recurso.
-    dialect:
-      delimiter: ;
+  - name: crimes_violentos_2015
+    title: Crimes Violentos 2015
+    dialect: schemas/dialect_v1.yaml
     encoding: utf-8-sig
     format: csv
     hashing: md5
-    name: crimes_violentos_2015
     path: data/crimes_violentos_2015.csv
     profile: tabular-data-resource
-    schema:
-      fields:
-        - name: registros
-          type: integer
-        - name: natureza
-          type: string
-        - name: municipio
-          type: string
-        - name: cod_municipio
-          type: integer
-        - name: mes
-          type: integer
-        - name: ano
-          type: integer
-        - name: risp
-          type: integer
-        - name: rmbh
-          type: string
+    schema: schemas/schema_v1.yaml
     scheme: file
-    title: Insira um título humanamente legível para este recurso.
-  - description: Insira a descrição/explicação detalhada deste recurso.
-    dialect:
-      delimiter: ;
+  - name: crimes_violentos_2016
+    title: Crimes Violentos 2016
+    dialect: schemas/dialect_v1.yaml
     encoding: utf-8-sig
     format: csv
     hashing: md5
-    name: crimes_violentos_2016
     path: data/crimes_violentos_2016.csv
     profile: tabular-data-resource
-    schema:
-      fields:
-        - name: registros
-          type: integer
-        - name: natureza
-          type: string
-        - name: municipio
-          type: string
-        - name: cod_municipio
-          type: integer
-        - name: mes
-          type: integer
-        - name: ano
-          type: integer
-        - name: risp
-          type: integer
-        - name: rmbh
-          type: string
+    schema: schemas/schema_v1.yaml
     scheme: file
-    title: Insira um título humanamente legível para este recurso.
-  - description: Insira a descrição/explicação detalhada deste recurso.
-    dialect:
-      delimiter: ;
+  - name: crimes_violentos_2017
+    title: Crimes Violentos 2017
+    dialect: schemas/dialect_v1.yaml
     encoding: utf-8-sig
     format: csv
     hashing: md5
-    name: crimes_violentos_2017
     path: data/crimes_violentos_2017.csv
     profile: tabular-data-resource
-    schema:
-      fields:
-        - name: registros
-          type: integer
-        - name: natureza
-          type: string
-        - name: municipio
-          type: string
-        - name: cod_municipio
-          type: integer
-        - name: mes
-          type: integer
-        - name: ano
-          type: integer
-        - name: risp
-          type: integer
-        - name: rmbh
-          type: string
+    schema: schemas/schema_v1.yaml
     scheme: file
-    title: Insira um título humanamente legível para este recurso.
-  - description: Insira a descrição/explicação detalhada deste recurso.
-    dialect:
-      delimiter: ;
+  - name: crimes_violentos_2018
+    title: Crimes Violentos 2018
+    dialect: schemas/dialect_v1.yaml
     encoding: utf-8-sig
     format: csv
     hashing: md5
-    name: crimes_violentos_2018
     path: data/crimes_violentos_2018.csv
     profile: tabular-data-resource
-    schema:
-      fields:
-        - name: registros
-          type: integer
-        - name: natureza
-          type: string
-        - name: municipio
-          type: string
-        - name: cod_municipio
-          type: integer
-        - name: mes
-          type: integer
-        - name: ano
-          type: integer
-        - name: risp
-          type: integer
-        - name: rmbh
-          type: string
+    schema: schemas/schema_v1.yaml
     scheme: file
-    title: Insira um título humanamente legível para este recurso.
-  - description: Insira a descrição/explicação detalhada deste recurso.
-    dialect:
-      delimiter: ;
+  - name: crimes_violentos_2019
+    title: Crimes Violentos 2019
+    dialect: schemas/dialect_v1.yaml
     encoding: utf-8-sig
     format: csv
     hashing: md5
-    name: crimes_violentos_2019
     path: data/crimes_violentos_2019.csv
     profile: tabular-data-resource
-    schema:
-      fields:
-        - name: registros
-          type: integer
-        - name: natureza
-          type: string
-        - name: municipio
-          type: string
-        - name: cod_municipio
-          type: integer
-        - name: mes
-          type: integer
-        - name: ano
-          type: integer
-        - name: risp
-          type: integer
-        - name: rmbh
-          type: string
+    schema: schemas/schema_v1.yaml
     scheme: file
-    title: Insira um título humanamente legível para este recurso.
-  - description: Insira a descrição/explicação detalhada deste recurso.
-    dialect:
-      delimiter: ;
+  - name: crimes_violentos_2020
+    title: Crimes Violentos 2020
+    dialect: schemas/dialect_v1.yaml
     encoding: utf-8-sig
     format: csv
     hashing: md5
-    name: crimes_violentos_2020
     path: data/crimes_violentos_2020.csv
     profile: tabular-data-resource
-    schema:
-      fields:
-        - name: registros
-          type: integer
-        - name: natureza
-          type: string
-        - name: municipio
-          type: string
-        - name: cod_municipio
-          type: integer
-        - name: mes
-          type: integer
-        - name: ano
-          type: integer
-        - name: risp
-          type: integer
-        - name: rmbh
-          type: string
+    schema: schemas/schema_v1.yaml
     scheme: file
-    title: Insira um título humanamente legível para este recurso.
-  - description: Insira a descrição/explicação detalhada deste recurso.
-    dialect:
-      delimiter: ;
+  - name: crimes_violentos_2021
+    title: Crimes Violentos 2021
+    dialect: schemas/dialect_v1.yaml
     encoding: utf-8-sig
     format: csv
     hashing: md5
-    name: crimes_violentos_2021
     path: data/crimes_violentos_2021.csv
     profile: tabular-data-resource
-    schema:
-      fields:
-        - name: registros
-          type: integer
-        - name: natureza
-          type: string
-        - name: municipio
-          type: string
-        - name: cod_municipio
-          type: integer
-        - name: mes
-          type: integer
-        - name: ano
-          type: integer
-        - name: risp
-          type: integer
-        - name: rmbh
-          type: string
+    schema: schemas/schema_v1.yaml
     scheme: file
-    title: Insira um título humanamente legível para este recurso.
-  - description: Insira a descrição/explicação detalhada deste recurso.
-    dialect:
-      delimiter: ;
+  - name: crimes_violentos_2022
+    title: Crimes Violentos 2022
+    dialect: schemas/dialect_v1.yaml
     encoding: utf-8-sig
     format: csv
     hashing: md5
-    name: crimes_violentos_2022
     path: data/crimes_violentos_2022.csv
     profile: tabular-data-resource
-    schema:
-      fields:
-        - name: registros
-          type: integer
-        - name: natureza
-          type: string
-        - name: municipio
-          type: string
-        - name: cod_municipio
-          type: integer
-        - name: mes
-          type: integer
-        - name: ano
-          type: integer
-        - name: risp
-          type: integer
-        - name: rmbh
-          type: string
+    schema: schemas/schema_v1.yaml
     scheme: file
-    title: Insira um título humanamente legível para este recurso.
-  - description: Insira a descrição/explicação detalhada deste recurso.
-    dialect:
-      delimiter: ;
+  - name: crimes_violentos_2023
+    title: Crimes Violentos 2023
+    dialect: schemas/dialect_v1.yaml
     encoding: utf-8-sig
     format: csv
     hashing: md5
-    name: crimes_violentos_2023
     path: data/crimes_violentos_2023.csv
     profile: tabular-data-resource
-    schema:
-      fields:
-        - name: registros
-          type: integer
-        - name: natureza
-          type: string
-        - name: municipio
-          type: string
-        - name: cod_municipio
-          type: integer
-        - name: mes
-          type: integer
-        - name: ano
-          type: integer
-        - name: risp
-          type: integer
-        - name: rmbh
-          type: string
+    schema: schemas/schema_v1.yaml
     scheme: file
-    title: Insira um título humanamente legível para este recurso.
-title: Crimes violentos
