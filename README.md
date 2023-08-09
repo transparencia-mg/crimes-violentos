@@ -112,9 +112,4 @@ graph TD;
 
 ![image](https://github.com/transparencia-mg/new-dataset-template/assets/52294411/7830e2fb-b2bf-434c-87b3-e366e5efa7a1)
 
-- Exluir actions reutilizáveis desnecessários para a publicação e atualizações do novo conjunto de dados:
-    - `.github/workflow/add_project_to_issue.yml`.
-    - `.github/workflow/set_due_date_to_closed_issue.yml`.
-    - `.github/workflow/add_assignee_to_closed_issue_reusable.yml`.
-
 [^1]: [Ciclo de Abertura, Documentação, Validação e Publicação](https://transparencia-mg.github.io/manual-dados-mg/0.1/2.%20Ciclo%20de%20publica%C3%A7%C3%A3o%20de%20dados/006_etapas_abertura/).
