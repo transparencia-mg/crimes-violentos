@@ -19,7 +19,7 @@ licenses:
 frequência de atualização: mensal
 temporal:
   - start: '2012-01-31'
-    end: '2023-08-31'
+    end: '2023-09-30'
 keywords: 
   - 'crimes'
   - 'estatísticas criminais'
