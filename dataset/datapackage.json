@@ -817,6 +817,71 @@
         ]
       },
       "scheme": "file"
+    },
+    {
+      "name": "crimes_violentos_2024",
+      "title": "Crimes Violentos 2024",
+      "dialect": {
+        "delimiter": ";"
+      },
+      "encoding": "utf-8-sig",
+      "format": "csv",
+      "hashing": "md5",
+      "path": "data/crimes_violentos_2024.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "registros",
+            "title": "REGISTROS",
+            "type": "integer",
+            "description": "Quantidade de ocorrências registradas."
+          },
+          {
+            "name": "natureza",
+            "type": "string",
+            "title": "NATUREZA",
+            "description": "Natureza do crime cometido."
+          },
+          {
+            "name": "municipio",
+            "type": "string",
+            "title": "MUNICIPIO",
+            "description": "Nome do município em que ocorreu o crime."
+          },
+          {
+            "name": "cod_municipio",
+            "type": "integer",
+            "title": "CÓDIGO MUNICÍPIO",
+            "description": "Código do município."
+          },
+          {
+            "name": "mes",
+            "type": "integer",
+            "title": "MÊS",
+            "description": "Mês em que ocorreu o fato."
+          },
+          {
+            "name": "ano",
+            "type": "integer",
+            "title": "ANO",
+            "description": "Ano em que ocorreu o fato."
+          },
+          {
+            "name": "risp",
+            "title": "RISP",
+            "description": "Número de identificação da Região Integrada de Segurança Pública.",
+            "type": "integer"
+          },
+          {
+            "name": "rmbh",
+            "title": "RMBH",
+            "type": "string",
+            "description": "Se pertence ou não à Região Metropolitana de Belo Horizonte."
+          }
+        ]
+      },
+      "scheme": "file"
     }
   ]
 }
