@@ -1,7 +1,7 @@
 profile: data-package
 name: crimes-violentos
 title: Crimes Violentos
-description: (verifricar o texto - TESTE DE EDIÇÃO)
+description: Conjunto de dados sobre crimes violentos, por Regiões Integradas de Segurança Pública, extraídos no Armazém de Dados do Sistema Integrado de Defesa Social.
 owner_org: secretaria-de-estado-de-justica-e-seguranca-publica-sejusp
 version: 0.1
 homepage: https://github.com/transparencia-mg/crimes-violentos
