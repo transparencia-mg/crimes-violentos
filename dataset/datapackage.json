@@ -8,7 +8,7 @@
   "homepage": "https://github.com/transparencia-mg/crimes-violentos",
   "contributors": [
     {
-      "title": "Diretoria de Informações de Segurança Pública",
+      "title": "Diretoria de Estatística e Análise de Informações de Segurança Pública",
       "role": "author",
       "email": "ramon.oliveira@seguranca.mg.gov.br"
     },
@@ -29,7 +29,7 @@
   "temporal": [
     {
       "start": "2012-01-31",
-      "end": "2024-07-31"
+      "end": "2024-08-31"
     }
   ],
   "keywords": [
