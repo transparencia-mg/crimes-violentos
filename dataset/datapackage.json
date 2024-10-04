@@ -55,7 +55,7 @@
             "name": "registros",
             "title": "REGISTROS",
             "type": "integer",
-            "description": "Quantidade de ocorrências registradas"
+            "description": "Quantidade de ocorrências registradas."
           },
           {
             "name": "natureza",
