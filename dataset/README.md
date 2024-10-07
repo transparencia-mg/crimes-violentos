@@ -18,4 +18,3 @@ Os dados estão disponíveis apenas a partir de 2012, tendo em vista que a impla
 
 Além disso, como o REDS é dinâmico, um novo registro pode ser feito com a data do fato referente a qualquer mês ou ano anterior. Por isso, em uma pesquisa buscam-se os dados dos três meses anteriores. Como exemplo, na extração feita em 06 de agosto de 2018, foram buscados dados de maio, junho e julho de 2018. Dessa forma, os REDS inseridos em julho de 2018, mas que fazem referência a um fato acontecido em maio de 2018, também serão incluídos.
 
-teste
