@@ -879,7 +879,6 @@
             "type": "string",
             "description": "Se pertence ou não à Região Metropolitana de Belo Horizonte."
           }
-          
         ]
       },
       "scheme": "file"
