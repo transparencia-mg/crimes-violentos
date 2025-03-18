@@ -19,7 +19,7 @@ licenses:
 frequência de atualização: mensal
 temporal:
   - start: '2012-01-31'
-    end: '2024-12-31'
+    end: '2025-01-31'
 keywords: 
   - 'crimes'
   - 'estatísticas criminais'
@@ -152,6 +152,16 @@ resources:
     format: csv
     hashing: md5
     path: data/crimes_violentos_2024.csv
+    profile: tabular-data-resource
+    schema: schemas/schema_v1.yaml
+    scheme: file
+  - name: crimes_violentos_2025
+    title: Crimes Violentos 2025
+    dialect: schemas/dialect_v1.yaml
+    encoding: utf-8-sig
+    format: csv
+    hashing: md5
+    path: data/crimes_violentos_2025.csv
     profile: tabular-data-resource
     schema: schemas/schema_v1.yaml
     scheme: file
