@@ -1,6 +1,6 @@
 {
   "version": "4.16.6",
-  "time": 26.062,
+  "time": 25.89,
   "errors": [],
   "tasks": [
     {
@@ -75,7 +75,7 @@
           "rows": 133068
         }
       },
-      "time": 2.0,
+      "time": 1.956,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -175,7 +175,7 @@
           "rows": 133068
         }
       },
-      "time": 2.002,
+      "time": 1.952,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -275,7 +275,7 @@
           "rows": 133068
         }
       },
-      "time": 1.974,
+      "time": 1.998,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -375,7 +375,7 @@
           "rows": 133068
         }
       },
-      "time": 1.979,
+      "time": 1.949,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -475,7 +475,7 @@
           "rows": 133068
         }
       },
-      "time": 2.013,
+      "time": 1.982,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -575,7 +575,7 @@
           "rows": 133068
         }
       },
-      "time": 1.998,
+      "time": 1.962,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -675,7 +675,7 @@
           "rows": 133068
         }
       },
-      "time": 2.009,
+      "time": 1.956,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -775,7 +775,7 @@
           "rows": 133068
         }
       },
-      "time": 2.012,
+      "time": 1.969,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -875,7 +875,7 @@
           "rows": 133068
         }
       },
-      "time": 2.002,
+      "time": 1.977,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -975,7 +975,7 @@
           "rows": 133068
         }
       },
-      "time": 2.007,
+      "time": 1.966,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -1075,7 +1075,7 @@
           "rows": 133068
         }
       },
-      "time": 1.99,
+      "time": 1.972,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -1175,7 +1175,7 @@
           "rows": 133068
         }
       },
-      "time": 1.985,
+      "time": 1.995,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -1275,7 +1275,107 @@
           "rows": 133068
         }
       },
-      "time": 1.999,
+      "time": 1.979,
+      "scope": [
+        "hash-count-error",
+        "byte-count-error",
+        "field-count-error",
+        "row-count-error",
+        "blank-header",
+        "extra-label",
+        "missing-label",
+        "blank-label",
+        "duplicate-label",
+        "incorrect-label",
+        "blank-row",
+        "primary-key-error",
+        "foreign-key-error",
+        "extra-cell",
+        "missing-cell",
+        "type-error",
+        "constraint-error",
+        "unique-error"
+      ],
+      "partial": false,
+      "errors": [],
+      "stats": {
+        "errors": 0
+      },
+      "valid": true
+    },
+    {
+      "resource": {
+        "name": "crimes_violentos_2025",
+        "title": "Crimes Violentos 2025",
+        "dialect": {
+          "delimiter": ";"
+        },
+        "encoding": "utf-8-sig",
+        "format": "csv",
+        "hashing": "md5",
+        "path": "data/crimes_violentos_2025.csv",
+        "profile": "tabular-data-resource",
+        "schema": {
+          "fields": [
+            {
+              "name": "registros",
+              "title": "REGISTROS",
+              "type": "integer",
+              "description": "Quantidade de ocorrências registradas."
+            },
+            {
+              "name": "natureza",
+              "type": "string",
+              "title": "NATUREZA",
+              "description": "Natureza do crime cometido."
+            },
+            {
+              "name": "municipio",
+              "type": "string",
+              "title": "MUNICIPIO",
+              "description": "Nome do município em que ocorreu o crime."
+            },
+            {
+              "name": "cod_municipio",
+              "type": "integer",
+              "title": "CÓDIGO MUNICÍPIO",
+              "description": "Código do município."
+            },
+            {
+              "name": "mes",
+              "type": "integer",
+              "title": "MÊS",
+              "description": "Mês em que ocorreu o fato."
+            },
+            {
+              "name": "ano",
+              "type": "integer",
+              "title": "ANO",
+              "description": "Ano em que ocorreu o fato."
+            },
+            {
+              "name": "risp",
+              "title": "RISP",
+              "description": "Número de identificação da Região Integrada de Segurança Pública.",
+              "type": "integer"
+            },
+            {
+              "name": "rmbh",
+              "title": "RMBH",
+              "type": "string",
+              "description": "Se pertence ou não à Região Metropolitana de Belo Horizonte."
+            }
+          ]
+        },
+        "scheme": "file",
+        "stats": {
+          "hash": "ef2fc3bb5e3537cd0ac0f275c8ef581d",
+          "bytes": 689328,
+          "fields": 8,
+          "rows": 11089
+        }
+      },
+      "time": 0.177,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -1306,7 +1406,7 @@
   ],
   "stats": {
     "errors": 0,
-    "tasks": 13
+    "tasks": 14
   },
   "valid": true
 }
