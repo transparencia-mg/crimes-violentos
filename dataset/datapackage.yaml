@@ -2,13 +2,12 @@ name: crimes-violentos
 owner_org: secretaria-de-estado-de-justica-e-seguranca-publica-sejusp
 profile: data-package
 resources:
-  - description:  
-    dialect:
+  - dialect:
       delimiter: ;
     encoding: utf-8-sig
     format: csv
     hashing: md5
-    name: Crimes_violentos_2012
+    name: crimes_violentos_2012
     path: data/crimes_violentos_2012.csv
     profile: tabular-data-resource
     schema:
@@ -30,7 +29,7 @@ resources:
         - name: rmbh
           type: string
     scheme: file
-    title: crimes violentos 2012
+    title: Crimes violentos 2012
   - dialect:
       delimiter: ;
     encoding: utf-8-sig
