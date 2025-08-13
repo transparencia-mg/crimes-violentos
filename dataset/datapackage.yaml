@@ -2,7 +2,8 @@ name: crimes-violentos
 owner_org: secretaria-de-estado-de-justica-e-seguranca-publica-sejusp
 profile: data-package
 resources:
-  - dialect:
+  - description:  
+    dialect:
       delimiter: ;
     encoding: utf-8-sig
     format: csv
