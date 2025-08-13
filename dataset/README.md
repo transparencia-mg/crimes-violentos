@@ -1,7 +1,3 @@
-[![Validação Frictionless](https://github.com/transparencia-mg/crimes-violentos/actions/workflows/validate.yaml/badge.svg)](https://github.com/transparencia-mg/crimes-violentos/actions/workflows/validate.yaml)
-
-[![Publicação](https://github.com/transparencia-mg/crimes-violentos/actions/workflows/publish.yaml/badge.svg)](https://github.com/transparencia-mg/crimes-violentos/actions/workflows/publish.yaml)
-
 O Banco de Crimes Violentos abrange as seguintes naturezas principais (crimes): Estupro Consumado; Estupro de Vulnerável Consumado; Estupro de Vulnerável Tentado; Estupro Tentado; Extorsão Consumado; Extorsão Tentado; Extorsão Mediante Sequestro Consumado; Homicídio Tentado; Roubo Consumado; Roubo Tentado; Sequestro e Cárcere Privado Consumado; Sequestro e Cárcere Privado Tentado e Homicídio Consumado (registros).
 
 Os dados utilizados nessa planilha foram extraídos no Armazém de Dados do Sistema Integrado de Defesa Social, em seu módulo do Registro de Evento de Defesa Social - REDS (Armazém_Sids_Reds).
