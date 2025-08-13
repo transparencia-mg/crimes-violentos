@@ -2,13 +2,12 @@ name: crimes-violentos
 owner_org: secretaria-de-estado-de-justica-e-seguranca-publica-sejusp
 profile: data-package
 resources:
-  - description: Insira a descrição/explicação detalhada deste recurso.
-    dialect:
+  - dialect:
       delimiter: ;
     encoding: utf-8-sig
     format: csv
     hashing: md5
-    name: crimes_violentos_2012
+    name: Crimes_violentos_2012
     path: data/crimes_violentos_2012.csv
     profile: tabular-data-resource
     schema:
@@ -31,8 +30,7 @@ resources:
           type: string
     scheme: file
     title: crimes violentos 2012
-  - description: Insira a descrição/explicação detalhada deste recurso.
-    dialect:
+  - dialect:
       delimiter: ;
     encoding: utf-8-sig
     format: csv
@@ -60,8 +58,7 @@ resources:
           type: string
     scheme: file
     title: Crimes violentos 2013
-  - description: Insira a descrição/explicação detalhada deste recurso.
-    dialect:
+  - dialect:
       delimiter: ;
     encoding: utf-8-sig
     format: csv
@@ -89,8 +86,7 @@ resources:
           type: string
     scheme: file
     title: Crimes violentos 2014
-  - description: Insira a descrição/explicação detalhada deste recurso.
-    dialect:
+  - dialect:
       delimiter: ;
     encoding: utf-8-sig
     format: csv
@@ -118,8 +114,7 @@ resources:
           type: string
     scheme: file
     title: Crimes violentos 2015
-  - description: Insira a descrição/explicação detalhada deste recurso.
-    dialect:
+  - dialect:
       delimiter: ;
     encoding: utf-8-sig
     format: csv
@@ -147,8 +142,7 @@ resources:
           type: string
     scheme: file
     title: Crimes violentos 2016
-  - description: Insira a descrição/explicação detalhada deste recurso.
-    dialect:
+  - dialect:
       delimiter: ;
     encoding: utf-8-sig
     format: csv
@@ -176,8 +170,7 @@ resources:
           type: string
     scheme: file
     title: Crimes violentos 2017
-  - description: Insira a descrição/explicação detalhada deste recurso.
-    dialect:
+  - dialect:
       delimiter: ;
     encoding: utf-8-sig
     format: csv
@@ -205,8 +198,7 @@ resources:
           type: string
     scheme: file
     title: Crimes violentos 2018
-  - description: Insira a descrição/explicação detalhada deste recurso.
-    dialect:
+  - dialect:
       delimiter: ;
     encoding: utf-8-sig
     format: csv
@@ -234,8 +226,7 @@ resources:
           type: string
     scheme: file
     title: Crimes violentos 2019
-  - description: Insira a descrição/explicação detalhada deste recurso.
-    dialect:
+ - dialect:
       delimiter: ;
     encoding: utf-8-sig
     format: csv
@@ -263,8 +254,7 @@ resources:
           type: string
     scheme: file
     title: Crimes violentos 2020
-  - description: Insira a descrição/explicação detalhada deste recurso.
-    dialect:
+  - dialect:
       delimiter: ;
     encoding: utf-8-sig
     format: csv
@@ -292,8 +282,7 @@ resources:
           type: string
     scheme: file
     title: Crimes violentos 2021
-  - description: Insira a descrição/explicação detalhada deste recurso.
-    dialect:
+  - dialect:
       delimiter: ;
     encoding: utf-8-sig
     format: csv
@@ -321,8 +310,7 @@ resources:
           type: string
     scheme: file
     title: Crimes violentos 2022
-  - description: Insira a descrição/explicação detalhada deste recurso.
-    dialect:
+  - dialect:
       delimiter: ;
     encoding: utf-8-sig
     format: csv
@@ -350,8 +338,7 @@ resources:
           type: string
     scheme: file
     title: Crimes violentos 2023
-  - description: Insira a descrição/explicação detalhada deste recurso.
-    dialect:
+  - dialect:
       delimiter: ;
     encoding: utf-8-sig
     format: csv
@@ -379,8 +366,7 @@ resources:
           type: string
     scheme: file
     title: Crimes violentos 2024
-  - description: Insira a descrição/explicação detalhada deste recurso.
-    dialect:
+  - dialect:
       delimiter: ;
     encoding: utf-8-sig
     format: csv
