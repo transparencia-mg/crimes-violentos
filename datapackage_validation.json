@@ -1,11 +1,10 @@
 {
   "version": "4.16.6",
-  "time": 31.811,
+  "time": 31.652,
   "errors": [],
   "tasks": [
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
         "dialect": {
           "delimiter": ";"
         },
@@ -52,7 +51,7 @@
           ]
         },
         "scheme": "file",
-        "title": "crimes violentos 2012",
+        "title": "Crimes violentos 2012",
         "stats": {
           "hash": "aec81a535e69e3b5cef6fd335b3a7adb",
           "bytes": 8305145,
@@ -60,7 +59,7 @@
           "rows": 133068
         }
       },
-      "time": 2.359,
+      "time": 2.349,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -90,7 +89,6 @@
     },
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
         "dialect": {
           "delimiter": ";"
         },
@@ -145,7 +143,7 @@
           "rows": 133068
         }
       },
-      "time": 2.429,
+      "time": 2.341,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -175,7 +173,6 @@
     },
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
         "dialect": {
           "delimiter": ";"
         },
@@ -230,7 +227,7 @@
           "rows": 133068
         }
       },
-      "time": 2.369,
+      "time": 2.35,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -260,7 +257,6 @@
     },
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
         "dialect": {
           "delimiter": ";"
         },
@@ -315,7 +311,7 @@
           "rows": 133068
         }
       },
-      "time": 2.358,
+      "time": 2.365,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -345,7 +341,6 @@
     },
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
         "dialect": {
           "delimiter": ";"
         },
@@ -400,7 +395,7 @@
           "rows": 133068
         }
       },
-      "time": 2.362,
+      "time": 2.376,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -430,7 +425,6 @@
     },
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
         "dialect": {
           "delimiter": ";"
         },
@@ -485,7 +479,7 @@
           "rows": 133068
         }
       },
-      "time": 2.367,
+      "time": 2.329,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -515,7 +509,6 @@
     },
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
         "dialect": {
           "delimiter": ";"
         },
@@ -570,7 +563,7 @@
           "rows": 133068
         }
       },
-      "time": 2.329,
+      "time": 2.334,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -600,7 +593,6 @@
     },
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
         "dialect": {
           "delimiter": ";"
         },
@@ -655,7 +647,7 @@
           "rows": 133068
         }
       },
-      "time": 2.356,
+      "time": 2.345,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -685,7 +677,6 @@
     },
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
         "dialect": {
           "delimiter": ";"
         },
@@ -740,7 +731,7 @@
           "rows": 133068
         }
       },
-      "time": 2.341,
+      "time": 2.378,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -770,7 +761,6 @@
     },
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
         "dialect": {
           "delimiter": ";"
         },
@@ -825,7 +815,7 @@
           "rows": 133068
         }
       },
-      "time": 2.4,
+      "time": 2.35,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -855,7 +845,6 @@
     },
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
         "dialect": {
           "delimiter": ";"
         },
@@ -910,7 +899,7 @@
           "rows": 133068
         }
       },
-      "time": 2.342,
+      "time": 2.339,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -940,7 +929,6 @@
     },
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
         "dialect": {
           "delimiter": ";"
         },
@@ -995,7 +983,7 @@
           "rows": 133068
         }
       },
-      "time": 2.332,
+      "time": 2.345,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -1025,7 +1013,6 @@
     },
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
         "dialect": {
           "delimiter": ";"
         },
@@ -1080,7 +1067,7 @@
           "rows": 133068
         }
       },
-      "time": 2.369,
+      "time": 2.358,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -1110,7 +1097,6 @@
     },
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
         "dialect": {
           "delimiter": ";"
         },
@@ -1165,7 +1151,7 @@
           "rows": 55445
         }
       },
-      "time": 0.985,
+      "time": 0.983,
       "scope": [
         "hash-count-error",
         "byte-count-error",
