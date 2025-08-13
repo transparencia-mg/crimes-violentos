@@ -2,7 +2,7 @@ name: crimes-violentos
 owner_org: secretaria-de-estado-de-justica-e-seguranca-publica-sejusp
 profile: data-package
 resources:
-   - dialect:
+  - dialect:
       delimiter: ;
     encoding: utf-8-sig
     format: csv
@@ -30,7 +30,7 @@ resources:
           type: string
     scheme: file
     title: crimes violentos 2012
-   - dialect:
+  - dialect:
       delimiter: ;
     encoding: utf-8-sig
     format: csv
@@ -58,7 +58,7 @@ resources:
           type: string
     scheme: file
     title: Crimes violentos 2013
-   - dialect:
+  - dialect:
       delimiter: ;
     encoding: utf-8-sig
     format: csv
@@ -86,7 +86,7 @@ resources:
           type: string
     scheme: file
     title: Crimes violentos 2014
-   - dialect:
+  - dialect:
       delimiter: ;
     encoding: utf-8-sig
     format: csv
@@ -114,7 +114,7 @@ resources:
           type: string
     scheme: file
     title: Crimes violentos 2015
-   - dialect:
+  - dialect:
       delimiter: ;
     encoding: utf-8-sig
     format: csv
@@ -226,7 +226,7 @@ resources:
           type: string
     scheme: file
     title: Crimes violentos 2019
- - dialect:
+  - dialect:
       delimiter: ;
     encoding: utf-8-sig
     format: csv
