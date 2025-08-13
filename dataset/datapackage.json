@@ -4,7 +4,6 @@
   "profile": "data-package",
   "resources": [
     {
-      "description": "Insira a descrição/explicação detalhada deste recurso.",
       "dialect": {
         "delimiter": ";"
       },
@@ -51,10 +50,9 @@
         ]
       },
       "scheme": "file",
-      "title": "crimes violentos 2012"
+      "title": "Crimes violentos 2012"
     },
     {
-      "description": "Insira a descrição/explicação detalhada deste recurso.",
       "dialect": {
         "delimiter": ";"
       },
@@ -104,7 +102,6 @@
       "title": "Crimes violentos 2013"
     },
     {
-      "description": "Insira a descrição/explicação detalhada deste recurso.",
       "dialect": {
         "delimiter": ";"
       },
@@ -154,7 +151,6 @@
       "title": "Crimes violentos 2014"
     },
     {
-      "description": "Insira a descrição/explicação detalhada deste recurso.",
       "dialect": {
         "delimiter": ";"
       },
@@ -204,7 +200,6 @@
       "title": "Crimes violentos 2015"
     },
     {
-      "description": "Insira a descrição/explicação detalhada deste recurso.",
       "dialect": {
         "delimiter": ";"
       },
@@ -254,7 +249,6 @@
       "title": "Crimes violentos 2016"
     },
     {
-      "description": "Insira a descrição/explicação detalhada deste recurso.",
       "dialect": {
         "delimiter": ";"
       },
@@ -304,7 +298,6 @@
       "title": "Crimes violentos 2017"
     },
     {
-      "description": "Insira a descrição/explicação detalhada deste recurso.",
       "dialect": {
         "delimiter": ";"
       },
@@ -354,7 +347,6 @@
       "title": "Crimes violentos 2018"
     },
     {
-      "description": "Insira a descrição/explicação detalhada deste recurso.",
       "dialect": {
         "delimiter": ";"
       },
@@ -404,7 +396,6 @@
       "title": "Crimes violentos 2019"
     },
     {
-      "description": "Insira a descrição/explicação detalhada deste recurso.",
       "dialect": {
         "delimiter": ";"
       },
@@ -454,7 +445,6 @@
       "title": "Crimes violentos 2020"
     },
     {
-      "description": "Insira a descrição/explicação detalhada deste recurso.",
       "dialect": {
         "delimiter": ";"
       },
@@ -504,7 +494,6 @@
       "title": "Crimes violentos 2021"
     },
     {
-      "description": "Insira a descrição/explicação detalhada deste recurso.",
       "dialect": {
         "delimiter": ";"
       },
@@ -554,7 +543,6 @@
       "title": "Crimes violentos 2022"
     },
     {
-      "description": "Insira a descrição/explicação detalhada deste recurso.",
       "dialect": {
         "delimiter": ";"
       },
@@ -604,7 +592,6 @@
       "title": "Crimes violentos 2023"
     },
     {
-      "description": "Insira a descrição/explicação detalhada deste recurso.",
       "dialect": {
         "delimiter": ";"
       },
@@ -654,7 +641,6 @@
       "title": "Crimes violentos 2024"
     },
     {
-      "description": "Insira a descrição/explicação detalhada deste recurso.",
       "dialect": {
         "delimiter": ";"
       },
