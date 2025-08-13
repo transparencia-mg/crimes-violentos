@@ -1,6 +1,6 @@
 {
   "version": "4.16.6",
-  "time": 33.239,
+  "time": 31.811,
   "errors": [],
   "tasks": [
     {
@@ -52,7 +52,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "crimes violentos 2012",
         "stats": {
           "hash": "aec81a535e69e3b5cef6fd335b3a7adb",
           "bytes": 8305145,
@@ -60,7 +60,7 @@
           "rows": 133068
         }
       },
-      "time": 2.496,
+      "time": 2.359,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -137,7 +137,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "Crimes violentos 2013",
         "stats": {
           "hash": "4acca01ac7c3f58b19ce1d3a15a3ae13",
           "bytes": 8305296,
@@ -145,7 +145,7 @@
           "rows": 133068
         }
       },
-      "time": 2.472,
+      "time": 2.429,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -222,7 +222,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "Crimes violentos 2014",
         "stats": {
           "hash": "79f6997edda9f5aae8959193f6f48588",
           "bytes": 8305441,
@@ -230,7 +230,7 @@
           "rows": 133068
         }
       },
-      "time": 2.466,
+      "time": 2.369,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -307,7 +307,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "Crimes violentos 2015",
         "stats": {
           "hash": "793ba43a76889b8671a97c12262810e4",
           "bytes": 8305567,
@@ -315,7 +315,7 @@
           "rows": 133068
         }
       },
-      "time": 2.47,
+      "time": 2.358,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -392,7 +392,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "Crimes violentos 2016",
         "stats": {
           "hash": "3c14c717afc4f97bc84c6a127d7fb1ba",
           "bytes": 8305681,
@@ -400,7 +400,7 @@
           "rows": 133068
         }
       },
-      "time": 2.496,
+      "time": 2.362,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -477,7 +477,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "Crimes violentos 2017",
         "stats": {
           "hash": "667c575e81c810d07ac197f2856c5f1a",
           "bytes": 8305593,
@@ -485,7 +485,7 @@
           "rows": 133068
         }
       },
-      "time": 2.45,
+      "time": 2.367,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -562,7 +562,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "Crimes violentos 2018",
         "stats": {
           "hash": "8afc1009720382ffdf8985970db3241d",
           "bytes": 8305229,
@@ -570,7 +570,7 @@
           "rows": 133068
         }
       },
-      "time": 2.481,
+      "time": 2.329,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -647,7 +647,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "Crimes violentos 2019",
         "stats": {
           "hash": "e0e7bd65e33b74d25f96dac6fc82ff6a",
           "bytes": 8304965,
@@ -655,7 +655,7 @@
           "rows": 133068
         }
       },
-      "time": 2.461,
+      "time": 2.356,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -732,7 +732,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "Crimes violentos 2020",
         "stats": {
           "hash": "1b20017fe8f80451db9a66cf851684a3",
           "bytes": 8304677,
@@ -740,7 +740,7 @@
           "rows": 133068
         }
       },
-      "time": 2.468,
+      "time": 2.341,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -817,7 +817,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "Crimes violentos 2021",
         "stats": {
           "hash": "6b7e3ad17aa8c7e87841eaf3f0301f04",
           "bytes": 8304631,
@@ -825,7 +825,7 @@
           "rows": 133068
         }
       },
-      "time": 2.46,
+      "time": 2.4,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -902,7 +902,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "Crimes violentos 2022",
         "stats": {
           "hash": "5c8cf14e227d362a55b1836cc3117220",
           "bytes": 8304632,
@@ -910,7 +910,7 @@
           "rows": 133068
         }
       },
-      "time": 2.453,
+      "time": 2.342,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -987,7 +987,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "Crimes violentos 2023",
         "stats": {
           "hash": "044b33f3a919ffbe3d99086a6a89da60",
           "bytes": 8304502,
@@ -995,7 +995,7 @@
           "rows": 133068
         }
       },
-      "time": 2.443,
+      "time": 2.332,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -1072,7 +1072,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "Crimes violentos 2024",
         "stats": {
           "hash": "afbadbd6c5461a58a16dd9a9c9bb0187",
           "bytes": 8304502,
@@ -1080,7 +1080,7 @@
           "rows": 133068
         }
       },
-      "time": 2.473,
+      "time": 2.369,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -1157,7 +1157,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "Crimes violentos 2025",
         "stats": {
           "hash": "185c16d8790c2145193733bbefc15366",
           "bytes": 3446349,
@@ -1165,7 +1165,7 @@
           "rows": 55445
         }
       },
-      "time": 1.038,
+      "time": 0.985,
       "scope": [
         "hash-count-error",
         "byte-count-error",
