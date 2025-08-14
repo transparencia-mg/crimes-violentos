@@ -6,7 +6,7 @@ O Armazém_Sids_Reds compila todos os REDS registrados em Minas Gerais, para tod
 
 Para os Registros de Homicídios Consumados de Belo Horizonte, até dezembro de 2020, foram utilizados os dados da Polícia Civil de Minas Gerais (PCMG), já que, dessa forma, são incluídas informações mais completas, oriundas de instauração de inquéritos policiais.
 
-A Região Integrada de Segurança Pública – RISP é uma das divisões territoriais administrativas existentes no estado de Minas Gerais e a mais frequentemente utilizada em estudos da SEJUSP, além da divisão por municípios. Atualmente, Minas Gerais possui 19 RISPs.
+A Região Integrada de Segurança Pública – RISP é uma das divisões territoriais administrativas existentes no estado de Minas Gerais e a mais frequentemente utilizada em estudos da SEJUSP, além da divisão por municípios. Atualmente, Minas Gerais possui 19 RISPs..
 
 ## Metodologia Utilizada
 
