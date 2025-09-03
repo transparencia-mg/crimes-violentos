@@ -1,0 +1,607 @@
+{
+  "version": "4.16.6",
+  "time": 15.55,
+  "errors": [],
+  "tasks": [
+    {
+      "resource": {
+        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "dialect": {
+          "delimiter": ";"
+        },
+        "encoding": "utf-8-sig",
+        "format": "csv",
+        "hashing": "md5",
+        "name": "crimes_violentos_2019",
+        "path": "data/crimes_violentos_2019.csv",
+        "profile": "tabular-data-resource",
+        "schema": {
+          "fields": [
+            {
+              "name": "registros",
+              "type": "integer"
+            },
+            {
+              "name": "natureza",
+              "type": "string"
+            },
+            {
+              "name": "municipio",
+              "type": "string"
+            },
+            {
+              "name": "cod_municipio",
+              "type": "integer"
+            },
+            {
+              "name": "mes",
+              "type": "integer"
+            },
+            {
+              "name": "ano",
+              "type": "integer"
+            },
+            {
+              "name": "risp",
+              "type": "integer"
+            },
+            {
+              "name": "rmbh",
+              "type": "string"
+            }
+          ]
+        },
+        "scheme": "file",
+        "title": "Insira um título humanamente legível para este recurso.",
+        "stats": {
+          "hash": "e0e7bd65e33b74d25f96dac6fc82ff6a",
+          "bytes": 8304965,
+          "fields": 8,
+          "rows": 133068
+        }
+      },
+      "time": 2.351,
+      "scope": [
+        "hash-count-error",
+        "byte-count-error",
+        "field-count-error",
+        "row-count-error",
+        "blank-header",
+        "extra-label",
+        "missing-label",
+        "blank-label",
+        "duplicate-label",
+        "incorrect-label",
+        "blank-row",
+        "primary-key-error",
+        "foreign-key-error",
+        "extra-cell",
+        "missing-cell",
+        "type-error",
+        "constraint-error",
+        "unique-error"
+      ],
+      "partial": false,
+      "errors": [],
+      "stats": {
+        "errors": 0
+      },
+      "valid": true
+    },
+    {
+      "resource": {
+        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "dialect": {
+          "delimiter": ";"
+        },
+        "encoding": "utf-8-sig",
+        "format": "csv",
+        "hashing": "md5",
+        "name": "crimes_violentos_2020",
+        "path": "data/crimes_violentos_2020.csv",
+        "profile": "tabular-data-resource",
+        "schema": {
+          "fields": [
+            {
+              "name": "registros",
+              "type": "integer"
+            },
+            {
+              "name": "natureza",
+              "type": "string"
+            },
+            {
+              "name": "municipio",
+              "type": "string"
+            },
+            {
+              "name": "cod_municipio",
+              "type": "integer"
+            },
+            {
+              "name": "mes",
+              "type": "integer"
+            },
+            {
+              "name": "ano",
+              "type": "integer"
+            },
+            {
+              "name": "risp",
+              "type": "integer"
+            },
+            {
+              "name": "rmbh",
+              "type": "string"
+            }
+          ]
+        },
+        "scheme": "file",
+        "title": "Insira um título humanamente legível para este recurso.",
+        "stats": {
+          "hash": "1b20017fe8f80451db9a66cf851684a3",
+          "bytes": 8304677,
+          "fields": 8,
+          "rows": 133068
+        }
+      },
+      "time": 2.34,
+      "scope": [
+        "hash-count-error",
+        "byte-count-error",
+        "field-count-error",
+        "row-count-error",
+        "blank-header",
+        "extra-label",
+        "missing-label",
+        "blank-label",
+        "duplicate-label",
+        "incorrect-label",
+        "blank-row",
+        "primary-key-error",
+        "foreign-key-error",
+        "extra-cell",
+        "missing-cell",
+        "type-error",
+        "constraint-error",
+        "unique-error"
+      ],
+      "partial": false,
+      "errors": [],
+      "stats": {
+        "errors": 0
+      },
+      "valid": true
+    },
+    {
+      "resource": {
+        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "dialect": {
+          "delimiter": ";"
+        },
+        "encoding": "utf-8-sig",
+        "format": "csv",
+        "hashing": "md5",
+        "name": "crimes_violentos_2021",
+        "path": "data/crimes_violentos_2021.csv",
+        "profile": "tabular-data-resource",
+        "schema": {
+          "fields": [
+            {
+              "name": "registros",
+              "type": "integer"
+            },
+            {
+              "name": "natureza",
+              "type": "string"
+            },
+            {
+              "name": "municipio",
+              "type": "string"
+            },
+            {
+              "name": "cod_municipio",
+              "type": "integer"
+            },
+            {
+              "name": "mes",
+              "type": "integer"
+            },
+            {
+              "name": "ano",
+              "type": "integer"
+            },
+            {
+              "name": "risp",
+              "type": "integer"
+            },
+            {
+              "name": "rmbh",
+              "type": "string"
+            }
+          ]
+        },
+        "scheme": "file",
+        "title": "Insira um título humanamente legível para este recurso.",
+        "stats": {
+          "hash": "6b7e3ad17aa8c7e87841eaf3f0301f04",
+          "bytes": 8304631,
+          "fields": 8,
+          "rows": 133068
+        }
+      },
+      "time": 2.379,
+      "scope": [
+        "hash-count-error",
+        "byte-count-error",
+        "field-count-error",
+        "row-count-error",
+        "blank-header",
+        "extra-label",
+        "missing-label",
+        "blank-label",
+        "duplicate-label",
+        "incorrect-label",
+        "blank-row",
+        "primary-key-error",
+        "foreign-key-error",
+        "extra-cell",
+        "missing-cell",
+        "type-error",
+        "constraint-error",
+        "unique-error"
+      ],
+      "partial": false,
+      "errors": [],
+      "stats": {
+        "errors": 0
+      },
+      "valid": true
+    },
+    {
+      "resource": {
+        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "dialect": {
+          "delimiter": ";"
+        },
+        "encoding": "utf-8-sig",
+        "format": "csv",
+        "hashing": "md5",
+        "name": "crimes_violentos_2022",
+        "path": "data/crimes_violentos_2022.csv",
+        "profile": "tabular-data-resource",
+        "schema": {
+          "fields": [
+            {
+              "name": "registros",
+              "type": "integer"
+            },
+            {
+              "name": "natureza",
+              "type": "string"
+            },
+            {
+              "name": "municipio",
+              "type": "string"
+            },
+            {
+              "name": "cod_municipio",
+              "type": "integer"
+            },
+            {
+              "name": "mes",
+              "type": "integer"
+            },
+            {
+              "name": "ano",
+              "type": "integer"
+            },
+            {
+              "name": "risp",
+              "type": "integer"
+            },
+            {
+              "name": "rmbh",
+              "type": "string"
+            }
+          ]
+        },
+        "scheme": "file",
+        "title": "Insira um título humanamente legível para este recurso.",
+        "stats": {
+          "hash": "5c8cf14e227d362a55b1836cc3117220",
+          "bytes": 8304632,
+          "fields": 8,
+          "rows": 133068
+        }
+      },
+      "time": 2.347,
+      "scope": [
+        "hash-count-error",
+        "byte-count-error",
+        "field-count-error",
+        "row-count-error",
+        "blank-header",
+        "extra-label",
+        "missing-label",
+        "blank-label",
+        "duplicate-label",
+        "incorrect-label",
+        "blank-row",
+        "primary-key-error",
+        "foreign-key-error",
+        "extra-cell",
+        "missing-cell",
+        "type-error",
+        "constraint-error",
+        "unique-error"
+      ],
+      "partial": false,
+      "errors": [],
+      "stats": {
+        "errors": 0
+      },
+      "valid": true
+    },
+    {
+      "resource": {
+        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "dialect": {
+          "delimiter": ";"
+        },
+        "encoding": "utf-8-sig",
+        "format": "csv",
+        "hashing": "md5",
+        "name": "crimes_violentos_2023",
+        "path": "data/crimes_violentos_2023.csv",
+        "profile": "tabular-data-resource",
+        "schema": {
+          "fields": [
+            {
+              "name": "registros",
+              "type": "integer"
+            },
+            {
+              "name": "natureza",
+              "type": "string"
+            },
+            {
+              "name": "municipio",
+              "type": "string"
+            },
+            {
+              "name": "cod_municipio",
+              "type": "integer"
+            },
+            {
+              "name": "mes",
+              "type": "integer"
+            },
+            {
+              "name": "ano",
+              "type": "integer"
+            },
+            {
+              "name": "risp",
+              "type": "integer"
+            },
+            {
+              "name": "rmbh",
+              "type": "string"
+            }
+          ]
+        },
+        "scheme": "file",
+        "title": "Insira um título humanamente legível para este recurso.",
+        "stats": {
+          "hash": "044b33f3a919ffbe3d99086a6a89da60",
+          "bytes": 8304502,
+          "fields": 8,
+          "rows": 133068
+        }
+      },
+      "time": 2.371,
+      "scope": [
+        "hash-count-error",
+        "byte-count-error",
+        "field-count-error",
+        "row-count-error",
+        "blank-header",
+        "extra-label",
+        "missing-label",
+        "blank-label",
+        "duplicate-label",
+        "incorrect-label",
+        "blank-row",
+        "primary-key-error",
+        "foreign-key-error",
+        "extra-cell",
+        "missing-cell",
+        "type-error",
+        "constraint-error",
+        "unique-error"
+      ],
+      "partial": false,
+      "errors": [],
+      "stats": {
+        "errors": 0
+      },
+      "valid": true
+    },
+    {
+      "resource": {
+        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "dialect": {
+          "delimiter": ";"
+        },
+        "encoding": "utf-8-sig",
+        "format": "csv",
+        "hashing": "md5",
+        "name": "crimes_violentos_2024",
+        "path": "data/crimes_violentos_2024.csv",
+        "profile": "tabular-data-resource",
+        "schema": {
+          "fields": [
+            {
+              "name": "registros",
+              "type": "integer"
+            },
+            {
+              "name": "natureza",
+              "type": "string"
+            },
+            {
+              "name": "municipio",
+              "type": "string"
+            },
+            {
+              "name": "cod_municipio",
+              "type": "integer"
+            },
+            {
+              "name": "mes",
+              "type": "integer"
+            },
+            {
+              "name": "ano",
+              "type": "integer"
+            },
+            {
+              "name": "risp",
+              "type": "integer"
+            },
+            {
+              "name": "rmbh",
+              "type": "string"
+            }
+          ]
+        },
+        "scheme": "file",
+        "title": "Insira um título humanamente legível para este recurso.",
+        "stats": {
+          "hash": "afbadbd6c5461a58a16dd9a9c9bb0187",
+          "bytes": 8304502,
+          "fields": 8,
+          "rows": 133068
+        }
+      },
+      "time": 2.334,
+      "scope": [
+        "hash-count-error",
+        "byte-count-error",
+        "field-count-error",
+        "row-count-error",
+        "blank-header",
+        "extra-label",
+        "missing-label",
+        "blank-label",
+        "duplicate-label",
+        "incorrect-label",
+        "blank-row",
+        "primary-key-error",
+        "foreign-key-error",
+        "extra-cell",
+        "missing-cell",
+        "type-error",
+        "constraint-error",
+        "unique-error"
+      ],
+      "partial": false,
+      "errors": [],
+      "stats": {
+        "errors": 0
+      },
+      "valid": true
+    },
+    {
+      "resource": {
+        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "dialect": {
+          "delimiter": ";"
+        },
+        "encoding": "utf-8-sig",
+        "format": "csv",
+        "hashing": "md5",
+        "name": "crimes_violentos_2025",
+        "path": "data/crimes_violentos_2025.csv",
+        "profile": "tabular-data-resource",
+        "schema": {
+          "fields": [
+            {
+              "name": "registros",
+              "type": "integer"
+            },
+            {
+              "name": "natureza",
+              "type": "string"
+            },
+            {
+              "name": "municipio",
+              "type": "string"
+            },
+            {
+              "name": "cod_municipio",
+              "type": "integer"
+            },
+            {
+              "name": "mes",
+              "type": "integer"
+            },
+            {
+              "name": "ano",
+              "type": "integer"
+            },
+            {
+              "name": "risp",
+              "type": "integer"
+            },
+            {
+              "name": "rmbh",
+              "type": "string"
+            }
+          ]
+        },
+        "scheme": "file",
+        "title": "Insira um título humanamente legível para este recurso.",
+        "stats": {
+          "hash": "41d23a26ffef1a1d2f037f58663f5a98",
+          "bytes": 4824857,
+          "fields": 8,
+          "rows": 77623
+        }
+      },
+      "time": 1.373,
+      "scope": [
+        "hash-count-error",
+        "byte-count-error",
+        "field-count-error",
+        "row-count-error",
+        "blank-header",
+        "extra-label",
+        "missing-label",
+        "blank-label",
+        "duplicate-label",
+        "incorrect-label",
+        "blank-row",
+        "primary-key-error",
+        "foreign-key-error",
+        "extra-cell",
+        "missing-cell",
+        "type-error",
+        "constraint-error",
+        "unique-error"
+      ],
+      "partial": false,
+      "errors": [],
+      "stats": {
+        "errors": 0
+      },
+      "valid": true
+    }
+  ],
+  "stats": {
+    "errors": 0,
+    "tasks": 7
+  },
+  "valid": true
+}
