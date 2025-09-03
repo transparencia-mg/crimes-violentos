@@ -1,11 +1,11 @@
 {
   "version": "4.16.6",
-  "time": 15.549,
+  "time": 15.791,
   "errors": [],
   "tasks": [
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "description": "Dados de Crimes Violentos 2019",
         "dialect": {
           "delimiter": ";"
         },
@@ -19,40 +19,56 @@
           "fields": [
             {
               "name": "registros",
-              "type": "integer"
+              "title": "REGISTROS",
+              "type": "integer",
+              "description": "Quantidade de ocorrências registradas."
             },
             {
               "name": "natureza",
-              "type": "string"
+              "type": "string",
+              "title": "NATUREZA",
+              "description": "Natureza do crime cometido."
             },
             {
               "name": "municipio",
-              "type": "string"
+              "type": "string",
+              "title": "MUNICIPIO",
+              "description": "Nome do município em que ocorreu o crime."
             },
             {
               "name": "cod_municipio",
-              "type": "integer"
+              "type": "integer",
+              "title": "CÓDIGO MUNICÍPIO",
+              "description": "Código do município."
             },
             {
               "name": "mes",
-              "type": "integer"
+              "type": "integer",
+              "title": "MÊS",
+              "description": "Mês em que ocorreu o fato."
             },
             {
               "name": "ano",
-              "type": "integer"
+              "type": "integer",
+              "title": "ANO",
+              "description": "Ano em que ocorreu o fato."
             },
             {
               "name": "risp",
+              "title": "RISP",
+              "description": "Número de identificação da Região Integrada de Segurança Pública.",
               "type": "integer"
             },
             {
               "name": "rmbh",
-              "type": "string"
+              "title": "RMBH",
+              "type": "string",
+              "description": "Se pertence ou não à Região Metropolitana de Belo Horizonte."
             }
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "Crimes Violentos 2019",
         "stats": {
           "hash": "e0e7bd65e33b74d25f96dac6fc82ff6a",
           "bytes": 8304965,
@@ -60,7 +76,7 @@
           "rows": 133068
         }
       },
-      "time": 2.369,
+      "time": 2.393,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -90,7 +106,7 @@
     },
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "description": "Dados de Crimes Violentos 2020",
         "dialect": {
           "delimiter": ";"
         },
@@ -104,40 +120,56 @@
           "fields": [
             {
               "name": "registros",
-              "type": "integer"
+              "title": "REGISTROS",
+              "type": "integer",
+              "description": "Quantidade de ocorrências registradas."
             },
             {
               "name": "natureza",
-              "type": "string"
+              "type": "string",
+              "title": "NATUREZA",
+              "description": "Natureza do crime cometido."
             },
             {
               "name": "municipio",
-              "type": "string"
+              "type": "string",
+              "title": "MUNICIPIO",
+              "description": "Nome do município em que ocorreu o crime."
             },
             {
               "name": "cod_municipio",
-              "type": "integer"
+              "type": "integer",
+              "title": "CÓDIGO MUNICÍPIO",
+              "description": "Código do município."
             },
             {
               "name": "mes",
-              "type": "integer"
+              "type": "integer",
+              "title": "MÊS",
+              "description": "Mês em que ocorreu o fato."
             },
             {
               "name": "ano",
-              "type": "integer"
+              "type": "integer",
+              "title": "ANO",
+              "description": "Ano em que ocorreu o fato."
             },
             {
               "name": "risp",
+              "title": "RISP",
+              "description": "Número de identificação da Região Integrada de Segurança Pública.",
               "type": "integer"
             },
             {
               "name": "rmbh",
-              "type": "string"
+              "title": "RMBH",
+              "type": "string",
+              "description": "Se pertence ou não à Região Metropolitana de Belo Horizonte."
             }
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "Crimes Violentos 2020",
         "stats": {
           "hash": "1b20017fe8f80451db9a66cf851684a3",
           "bytes": 8304677,
@@ -145,7 +177,7 @@
           "rows": 133068
         }
       },
-      "time": 2.359,
+      "time": 2.387,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -175,7 +207,7 @@
     },
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "description": "Dados de Crimes Violentos 2021",
         "dialect": {
           "delimiter": ";"
         },
@@ -189,40 +221,56 @@
           "fields": [
             {
               "name": "registros",
-              "type": "integer"
+              "title": "REGISTROS",
+              "type": "integer",
+              "description": "Quantidade de ocorrências registradas."
             },
             {
               "name": "natureza",
-              "type": "string"
+              "type": "string",
+              "title": "NATUREZA",
+              "description": "Natureza do crime cometido."
             },
             {
               "name": "municipio",
-              "type": "string"
+              "type": "string",
+              "title": "MUNICIPIO",
+              "description": "Nome do município em que ocorreu o crime."
             },
             {
               "name": "cod_municipio",
-              "type": "integer"
+              "type": "integer",
+              "title": "CÓDIGO MUNICÍPIO",
+              "description": "Código do município."
             },
             {
               "name": "mes",
-              "type": "integer"
+              "type": "integer",
+              "title": "MÊS",
+              "description": "Mês em que ocorreu o fato."
             },
             {
               "name": "ano",
-              "type": "integer"
+              "type": "integer",
+              "title": "ANO",
+              "description": "Ano em que ocorreu o fato."
             },
             {
               "name": "risp",
+              "title": "RISP",
+              "description": "Número de identificação da Região Integrada de Segurança Pública.",
               "type": "integer"
             },
             {
               "name": "rmbh",
-              "type": "string"
+              "title": "RMBH",
+              "type": "string",
+              "description": "Se pertence ou não à Região Metropolitana de Belo Horizonte."
             }
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "Crimes Violentos 2021",
         "stats": {
           "hash": "6b7e3ad17aa8c7e87841eaf3f0301f04",
           "bytes": 8304631,
@@ -230,7 +278,7 @@
           "rows": 133068
         }
       },
-      "time": 2.346,
+      "time": 2.377,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -260,7 +308,7 @@
     },
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "description": "Dados de Crimes Violentos 2022",
         "dialect": {
           "delimiter": ";"
         },
@@ -274,40 +322,56 @@
           "fields": [
             {
               "name": "registros",
-              "type": "integer"
+              "title": "REGISTROS",
+              "type": "integer",
+              "description": "Quantidade de ocorrências registradas."
             },
             {
               "name": "natureza",
-              "type": "string"
+              "type": "string",
+              "title": "NATUREZA",
+              "description": "Natureza do crime cometido."
             },
             {
               "name": "municipio",
-              "type": "string"
+              "type": "string",
+              "title": "MUNICIPIO",
+              "description": "Nome do município em que ocorreu o crime."
             },
             {
               "name": "cod_municipio",
-              "type": "integer"
+              "type": "integer",
+              "title": "CÓDIGO MUNICÍPIO",
+              "description": "Código do município."
             },
             {
               "name": "mes",
-              "type": "integer"
+              "type": "integer",
+              "title": "MÊS",
+              "description": "Mês em que ocorreu o fato."
             },
             {
               "name": "ano",
-              "type": "integer"
+              "type": "integer",
+              "title": "ANO",
+              "description": "Ano em que ocorreu o fato."
             },
             {
               "name": "risp",
+              "title": "RISP",
+              "description": "Número de identificação da Região Integrada de Segurança Pública.",
               "type": "integer"
             },
             {
               "name": "rmbh",
-              "type": "string"
+              "title": "RMBH",
+              "type": "string",
+              "description": "Se pertence ou não à Região Metropolitana de Belo Horizonte."
             }
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "Crimes Violentos 2022",
         "stats": {
           "hash": "5c8cf14e227d362a55b1836cc3117220",
           "bytes": 8304632,
@@ -315,7 +379,7 @@
           "rows": 133068
         }
       },
-      "time": 2.325,
+      "time": 2.368,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -345,7 +409,7 @@
     },
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "description": "Dados de Crimes Violentos 2023",
         "dialect": {
           "delimiter": ";"
         },
@@ -359,40 +423,56 @@
           "fields": [
             {
               "name": "registros",
-              "type": "integer"
+              "title": "REGISTROS",
+              "type": "integer",
+              "description": "Quantidade de ocorrências registradas."
             },
             {
               "name": "natureza",
-              "type": "string"
+              "type": "string",
+              "title": "NATUREZA",
+              "description": "Natureza do crime cometido."
             },
             {
               "name": "municipio",
-              "type": "string"
+              "type": "string",
+              "title": "MUNICIPIO",
+              "description": "Nome do município em que ocorreu o crime."
             },
             {
               "name": "cod_municipio",
-              "type": "integer"
+              "type": "integer",
+              "title": "CÓDIGO MUNICÍPIO",
+              "description": "Código do município."
             },
             {
               "name": "mes",
-              "type": "integer"
+              "type": "integer",
+              "title": "MÊS",
+              "description": "Mês em que ocorreu o fato."
             },
             {
               "name": "ano",
-              "type": "integer"
+              "type": "integer",
+              "title": "ANO",
+              "description": "Ano em que ocorreu o fato."
             },
             {
               "name": "risp",
+              "title": "RISP",
+              "description": "Número de identificação da Região Integrada de Segurança Pública.",
               "type": "integer"
             },
             {
               "name": "rmbh",
-              "type": "string"
+              "title": "RMBH",
+              "type": "string",
+              "description": "Se pertence ou não à Região Metropolitana de Belo Horizonte."
             }
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "Crimes Violentos 2023",
         "stats": {
           "hash": "044b33f3a919ffbe3d99086a6a89da60",
           "bytes": 8304502,
@@ -400,7 +480,7 @@
           "rows": 133068
         }
       },
-      "time": 2.349,
+      "time": 2.406,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -430,7 +510,7 @@
     },
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "description": "Dados de Crimes Violentos 2024",
         "dialect": {
           "delimiter": ";"
         },
@@ -444,40 +524,56 @@
           "fields": [
             {
               "name": "registros",
-              "type": "integer"
+              "title": "REGISTROS",
+              "type": "integer",
+              "description": "Quantidade de ocorrências registradas."
             },
             {
               "name": "natureza",
-              "type": "string"
+              "type": "string",
+              "title": "NATUREZA",
+              "description": "Natureza do crime cometido."
             },
             {
               "name": "municipio",
-              "type": "string"
+              "type": "string",
+              "title": "MUNICIPIO",
+              "description": "Nome do município em que ocorreu o crime."
             },
             {
               "name": "cod_municipio",
-              "type": "integer"
+              "type": "integer",
+              "title": "CÓDIGO MUNICÍPIO",
+              "description": "Código do município."
             },
             {
               "name": "mes",
-              "type": "integer"
+              "type": "integer",
+              "title": "MÊS",
+              "description": "Mês em que ocorreu o fato."
             },
             {
               "name": "ano",
-              "type": "integer"
+              "type": "integer",
+              "title": "ANO",
+              "description": "Ano em que ocorreu o fato."
             },
             {
               "name": "risp",
+              "title": "RISP",
+              "description": "Número de identificação da Região Integrada de Segurança Pública.",
               "type": "integer"
             },
             {
               "name": "rmbh",
-              "type": "string"
+              "title": "RMBH",
+              "type": "string",
+              "description": "Se pertence ou não à Região Metropolitana de Belo Horizonte."
             }
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "Crimes Violentos 2024",
         "stats": {
           "hash": "afbadbd6c5461a58a16dd9a9c9bb0187",
           "bytes": 8304502,
@@ -485,7 +581,7 @@
           "rows": 133068
         }
       },
-      "time": 2.372,
+      "time": 2.397,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -515,7 +611,7 @@
     },
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "description": "Dados de Crimes Violentos 2025",
         "dialect": {
           "delimiter": ";"
         },
@@ -529,40 +625,56 @@
           "fields": [
             {
               "name": "registros",
-              "type": "integer"
+              "title": "REGISTROS",
+              "type": "integer",
+              "description": "Quantidade de ocorrências registradas."
             },
             {
               "name": "natureza",
-              "type": "string"
+              "type": "string",
+              "title": "NATUREZA",
+              "description": "Natureza do crime cometido."
             },
             {
               "name": "municipio",
-              "type": "string"
+              "type": "string",
+              "title": "MUNICIPIO",
+              "description": "Nome do município em que ocorreu o crime."
             },
             {
               "name": "cod_municipio",
-              "type": "integer"
+              "type": "integer",
+              "title": "CÓDIGO MUNICÍPIO",
+              "description": "Código do município."
             },
             {
               "name": "mes",
-              "type": "integer"
+              "type": "integer",
+              "title": "MÊS",
+              "description": "Mês em que ocorreu o fato."
             },
             {
               "name": "ano",
-              "type": "integer"
+              "type": "integer",
+              "title": "ANO",
+              "description": "Ano em que ocorreu o fato."
             },
             {
               "name": "risp",
+              "title": "RISP",
+              "description": "Número de identificação da Região Integrada de Segurança Pública.",
               "type": "integer"
             },
             {
               "name": "rmbh",
-              "type": "string"
+              "title": "RMBH",
+              "type": "string",
+              "description": "Se pertence ou não à Região Metropolitana de Belo Horizonte."
             }
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "Crimes Violentos 2025",
         "stats": {
           "hash": "41d23a26ffef1a1d2f037f58663f5a98",
           "bytes": 4824857,
@@ -570,7 +682,7 @@
           "rows": 77623
         }
       },
-      "time": 1.373,
+      "time": 1.402,
       "scope": [
         "hash-count-error",
         "byte-count-error",
