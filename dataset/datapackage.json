@@ -1,0 +1,358 @@
+{
+  "name": "crimes-violentos-sejusp",
+  "owner_org": "secretaria-de-estado-de-justica-e-seguranca-publica-sejusp",
+  "profile": "data-package",
+  "resources": [
+    {
+      "description": "Insira a descrição/explicação detalhada deste recurso.",
+      "dialect": {
+        "delimiter": ";"
+      },
+      "encoding": "utf-8-sig",
+      "format": "csv",
+      "hashing": "md5",
+      "name": "crimes_violentos_2019",
+      "path": "data/crimes_violentos_2019.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "registros",
+            "type": "integer"
+          },
+          {
+            "name": "natureza",
+            "type": "string"
+          },
+          {
+            "name": "municipio",
+            "type": "string"
+          },
+          {
+            "name": "cod_municipio",
+            "type": "integer"
+          },
+          {
+            "name": "mes",
+            "type": "integer"
+          },
+          {
+            "name": "ano",
+            "type": "integer"
+          },
+          {
+            "name": "risp",
+            "type": "integer"
+          },
+          {
+            "name": "rmbh",
+            "type": "string"
+          }
+        ]
+      },
+      "scheme": "file",
+      "title": "Insira um título humanamente legível para este recurso."
+    },
+    {
+      "description": "Insira a descrição/explicação detalhada deste recurso.",
+      "dialect": {
+        "delimiter": ";"
+      },
+      "encoding": "utf-8-sig",
+      "format": "csv",
+      "hashing": "md5",
+      "name": "crimes_violentos_2020",
+      "path": "data/crimes_violentos_2020.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "registros",
+            "type": "integer"
+          },
+          {
+            "name": "natureza",
+            "type": "string"
+          },
+          {
+            "name": "municipio",
+            "type": "string"
+          },
+          {
+            "name": "cod_municipio",
+            "type": "integer"
+          },
+          {
+            "name": "mes",
+            "type": "integer"
+          },
+          {
+            "name": "ano",
+            "type": "integer"
+          },
+          {
+            "name": "risp",
+            "type": "integer"
+          },
+          {
+            "name": "rmbh",
+            "type": "string"
+          }
+        ]
+      },
+      "scheme": "file",
+      "title": "Insira um título humanamente legível para este recurso."
+    },
+    {
+      "description": "Insira a descrição/explicação detalhada deste recurso.",
+      "dialect": {
+        "delimiter": ";"
+      },
+      "encoding": "utf-8-sig",
+      "format": "csv",
+      "hashing": "md5",
+      "name": "crimes_violentos_2021",
+      "path": "data/crimes_violentos_2021.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "registros",
+            "type": "integer"
+          },
+          {
+            "name": "natureza",
+            "type": "string"
+          },
+          {
+            "name": "municipio",
+            "type": "string"
+          },
+          {
+            "name": "cod_municipio",
+            "type": "integer"
+          },
+          {
+            "name": "mes",
+            "type": "integer"
+          },
+          {
+            "name": "ano",
+            "type": "integer"
+          },
+          {
+            "name": "risp",
+            "type": "integer"
+          },
+          {
+            "name": "rmbh",
+            "type": "string"
+          }
+        ]
+      },
+      "scheme": "file",
+      "title": "Insira um título humanamente legível para este recurso."
+    },
+    {
+      "description": "Insira a descrição/explicação detalhada deste recurso.",
+      "dialect": {
+        "delimiter": ";"
+      },
+      "encoding": "utf-8-sig",
+      "format": "csv",
+      "hashing": "md5",
+      "name": "crimes_violentos_2022",
+      "path": "data/crimes_violentos_2022.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "registros",
+            "type": "integer"
+          },
+          {
+            "name": "natureza",
+            "type": "string"
+          },
+          {
+            "name": "municipio",
+            "type": "string"
+          },
+          {
+            "name": "cod_municipio",
+            "type": "integer"
+          },
+          {
+            "name": "mes",
+            "type": "integer"
+          },
+          {
+            "name": "ano",
+            "type": "integer"
+          },
+          {
+            "name": "risp",
+            "type": "integer"
+          },
+          {
+            "name": "rmbh",
+            "type": "string"
+          }
+        ]
+      },
+      "scheme": "file",
+      "title": "Insira um título humanamente legível para este recurso."
+    },
+    {
+      "description": "Insira a descrição/explicação detalhada deste recurso.",
+      "dialect": {
+        "delimiter": ";"
+      },
+      "encoding": "utf-8-sig",
+      "format": "csv",
+      "hashing": "md5",
+      "name": "crimes_violentos_2023",
+      "path": "data/crimes_violentos_2023.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "registros",
+            "type": "integer"
+          },
+          {
+            "name": "natureza",
+            "type": "string"
+          },
+          {
+            "name": "municipio",
+            "type": "string"
+          },
+          {
+            "name": "cod_municipio",
+            "type": "integer"
+          },
+          {
+            "name": "mes",
+            "type": "integer"
+          },
+          {
+            "name": "ano",
+            "type": "integer"
+          },
+          {
+            "name": "risp",
+            "type": "integer"
+          },
+          {
+            "name": "rmbh",
+            "type": "string"
+          }
+        ]
+      },
+      "scheme": "file",
+      "title": "Insira um título humanamente legível para este recurso."
+    },
+    {
+      "description": "Insira a descrição/explicação detalhada deste recurso.",
+      "dialect": {
+        "delimiter": ";"
+      },
+      "encoding": "utf-8-sig",
+      "format": "csv",
+      "hashing": "md5",
+      "name": "crimes_violentos_2024",
+      "path": "data/crimes_violentos_2024.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "registros",
+            "type": "integer"
+          },
+          {
+            "name": "natureza",
+            "type": "string"
+          },
+          {
+            "name": "municipio",
+            "type": "string"
+          },
+          {
+            "name": "cod_municipio",
+            "type": "integer"
+          },
+          {
+            "name": "mes",
+            "type": "integer"
+          },
+          {
+            "name": "ano",
+            "type": "integer"
+          },
+          {
+            "name": "risp",
+            "type": "integer"
+          },
+          {
+            "name": "rmbh",
+            "type": "string"
+          }
+        ]
+      },
+      "scheme": "file",
+      "title": "Insira um título humanamente legível para este recurso."
+    },
+    {
+      "description": "Insira a descrição/explicação detalhada deste recurso.",
+      "dialect": {
+        "delimiter": ";"
+      },
+      "encoding": "utf-8-sig",
+      "format": "csv",
+      "hashing": "md5",
+      "name": "crimes_violentos_2025",
+      "path": "data/crimes_violentos_2025.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "registros",
+            "type": "integer"
+          },
+          {
+            "name": "natureza",
+            "type": "string"
+          },
+          {
+            "name": "municipio",
+            "type": "string"
+          },
+          {
+            "name": "cod_municipio",
+            "type": "integer"
+          },
+          {
+            "name": "mes",
+            "type": "integer"
+          },
+          {
+            "name": "ano",
+            "type": "integer"
+          },
+          {
+            "name": "risp",
+            "type": "integer"
+          },
+          {
+            "name": "rmbh",
+            "type": "string"
+          }
+        ]
+      },
+      "scheme": "file",
+      "title": "Insira um título humanamente legível para este recurso."
+    }
+  ],
+  "title": "Crimes violentos sejusp"
+}
