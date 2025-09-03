@@ -1,8 +1,8 @@
-name: crimes-violentos-sejusp
+name: crimes-violentos
 owner_org: secretaria-de-estado-de-justica-e-seguranca-publica-sejusp
 profile: data-package
 resources:
-  - description: Insira a descrição/explicação detalhada deste recurso.
+  - description: Dados de Crimes Violentos 2019
     dialect:
       delimiter: ;
     encoding: utf-8-sig
@@ -14,24 +14,40 @@ resources:
     schema:
       fields:
         - name: registros
+          title: REGISTROS
           type: integer
+          description: Quantidade de ocorrências registradas.
         - name: natureza
           type: string
+          title: NATUREZA
+          description: Natureza do crime cometido.
         - name: municipio
           type: string
+          title: MUNICIPIO
+          description: Nome do município em que ocorreu o crime.
         - name: cod_municipio
           type: integer
+          title: CÓDIGO MUNICÍPIO
+          description: Código do município.
         - name: mes
           type: integer
+          title: MÊS
+          description: Mês em que ocorreu o fato.
         - name: ano
           type: integer
+          title: ANO
+          description: Ano em que ocorreu o fato.
         - name: risp
+          title: RISP
+          description: Número de identificação da Região Integrada de Segurança Pública.
           type: integer
         - name: rmbh
+          title: RMBH
           type: string
+          description: Se pertence ou não à Região Metropolitana de Belo Horizonte.
     scheme: file
-    title: Insira um título humanamente legível para este recurso.
-  - description: Insira a descrição/explicação detalhada deste recurso.
+    title: Crimes Violentos 2019
+  - description: Dados de Crimes Violentos 2020
     dialect:
       delimiter: ;
     encoding: utf-8-sig
@@ -41,26 +57,42 @@ resources:
     path: data/crimes_violentos_2020.csv
     profile: tabular-data-resource
     schema:
-      fields:
+     fields:
         - name: registros
+          title: REGISTROS
           type: integer
+          description: Quantidade de ocorrências registradas.
         - name: natureza
           type: string
+          title: NATUREZA
+          description: Natureza do crime cometido.
         - name: municipio
           type: string
+          title: MUNICIPIO
+          description: Nome do município em que ocorreu o crime.
         - name: cod_municipio
           type: integer
+          title: CÓDIGO MUNICÍPIO
+          description: Código do município.
         - name: mes
           type: integer
+          title: MÊS
+          description: Mês em que ocorreu o fato.
         - name: ano
           type: integer
+          title: ANO
+          description: Ano em que ocorreu o fato.
         - name: risp
+          title: RISP
+          description: Número de identificação da Região Integrada de Segurança Pública.
           type: integer
         - name: rmbh
+          title: RMBH
           type: string
+          description: Se pertence ou não à Região Metropolitana de Belo Horizonte.
     scheme: file
-    title: Insira um título humanamente legível para este recurso.
-  - description: Insira a descrição/explicação detalhada deste recurso.
+    title: Crimes Violentos 2020
+  - description: Dados de Crimes Violentos 2021
     dialect:
       delimiter: ;
     encoding: utf-8-sig
@@ -72,24 +104,40 @@ resources:
     schema:
       fields:
         - name: registros
+          title: REGISTROS
           type: integer
+          description: Quantidade de ocorrências registradas.
         - name: natureza
           type: string
+          title: NATUREZA
+          description: Natureza do crime cometido.
         - name: municipio
           type: string
+          title: MUNICIPIO
+          description: Nome do município em que ocorreu o crime.
         - name: cod_municipio
           type: integer
+          title: CÓDIGO MUNICÍPIO
+          description: Código do município.
         - name: mes
           type: integer
+          title: MÊS
+          description: Mês em que ocorreu o fato.
         - name: ano
           type: integer
+          title: ANO
+          description: Ano em que ocorreu o fato.
         - name: risp
+          title: RISP
+          description: Número de identificação da Região Integrada de Segurança Pública.
           type: integer
         - name: rmbh
+          title: RMBH
           type: string
+          description: Se pertence ou não à Região Metropolitana de Belo Horizonte.
     scheme: file
-    title: Insira um título humanamente legível para este recurso.
-  - description: Insira a descrição/explicação detalhada deste recurso.
+    title: Crimes Violentos 2021
+  - description: Dados de Crimes Violentos 2022
     dialect:
       delimiter: ;
     encoding: utf-8-sig
@@ -101,24 +149,40 @@ resources:
     schema:
       fields:
         - name: registros
+          title: REGISTROS
           type: integer
+          description: Quantidade de ocorrências registradas.
         - name: natureza
           type: string
+          title: NATUREZA
+          description: Natureza do crime cometido.
         - name: municipio
           type: string
+          title: MUNICIPIO
+          description: Nome do município em que ocorreu o crime.
         - name: cod_municipio
           type: integer
+          title: CÓDIGO MUNICÍPIO
+          description: Código do município.
         - name: mes
           type: integer
+          title: MÊS
+          description: Mês em que ocorreu o fato.
         - name: ano
           type: integer
+          title: ANO
+          description: Ano em que ocorreu o fato.
         - name: risp
+          title: RISP
+          description: Número de identificação da Região Integrada de Segurança Pública.
           type: integer
         - name: rmbh
+          title: RMBH
           type: string
+          description: Se pertence ou não à Região Metropolitana de Belo Horizonte.
     scheme: file
-    title: Insira um título humanamente legível para este recurso.
-  - description: Insira a descrição/explicação detalhada deste recurso.
+    title: Crimes Violentos 2022
+  - description: Dados de Crimes Violentos 2023
     dialect:
       delimiter: ;
     encoding: utf-8-sig
@@ -128,26 +192,42 @@ resources:
     path: data/crimes_violentos_2023.csv
     profile: tabular-data-resource
     schema:
-      fields:
+     fields:
         - name: registros
+          title: REGISTROS
           type: integer
+          description: Quantidade de ocorrências registradas.
         - name: natureza
           type: string
+          title: NATUREZA
+          description: Natureza do crime cometido.
         - name: municipio
           type: string
+          title: MUNICIPIO
+          description: Nome do município em que ocorreu o crime.
         - name: cod_municipio
           type: integer
+          title: CÓDIGO MUNICÍPIO
+          description: Código do município.
         - name: mes
           type: integer
+          title: MÊS
+          description: Mês em que ocorreu o fato.
         - name: ano
           type: integer
+          title: ANO
+          description: Ano em que ocorreu o fato.
         - name: risp
+          title: RISP
+          description: Número de identificação da Região Integrada de Segurança Pública.
           type: integer
         - name: rmbh
+          title: RMBH
           type: string
+          description: Se pertence ou não à Região Metropolitana de Belo Horizonte.
     scheme: file
-    title: Insira um título humanamente legível para este recurso.
-  - description: Insira a descrição/explicação detalhada deste recurso.
+    title: Crimes Violentos 2023
+  - description: Dados de Crimes Violentos 2024
     dialect:
       delimiter: ;
     encoding: utf-8-sig
@@ -157,26 +237,42 @@ resources:
     path: data/crimes_violentos_2024.csv
     profile: tabular-data-resource
     schema:
-      fields:
+     fields:
         - name: registros
+          title: REGISTROS
           type: integer
+          description: Quantidade de ocorrências registradas.
         - name: natureza
           type: string
+          title: NATUREZA
+          description: Natureza do crime cometido.
         - name: municipio
           type: string
+          title: MUNICIPIO
+          description: Nome do município em que ocorreu o crime.
         - name: cod_municipio
           type: integer
+          title: CÓDIGO MUNICÍPIO
+          description: Código do município.
         - name: mes
           type: integer
+          title: MÊS
+          description: Mês em que ocorreu o fato.
         - name: ano
           type: integer
+          title: ANO
+          description: Ano em que ocorreu o fato.
         - name: risp
+          title: RISP
+          description: Número de identificação da Região Integrada de Segurança Pública.
           type: integer
         - name: rmbh
+          title: RMBH
           type: string
+          description: Se pertence ou não à Região Metropolitana de Belo Horizonte.
     scheme: file
-    title: Insira um título humanamente legível para este recurso.
-  - description: Insira a descrição/explicação detalhada deste recurso.
+    title: Crimes Violentos 2024
+  - description: Dados de Crimes Violentos 2025
     dialect:
       delimiter: ;
     encoding: utf-8-sig
@@ -188,21 +284,37 @@ resources:
     schema:
       fields:
         - name: registros
+          title: REGISTROS
           type: integer
+          description: Quantidade de ocorrências registradas.
         - name: natureza
           type: string
+          title: NATUREZA
+          description: Natureza do crime cometido.
         - name: municipio
           type: string
+          title: MUNICIPIO
+          description: Nome do município em que ocorreu o crime.
         - name: cod_municipio
           type: integer
+          title: CÓDIGO MUNICÍPIO
+          description: Código do município.
         - name: mes
           type: integer
+          title: MÊS
+          description: Mês em que ocorreu o fato.
         - name: ano
           type: integer
+          title: ANO
+          description: Ano em que ocorreu o fato.
         - name: risp
+          title: RISP
+          description: Número de identificação da Região Integrada de Segurança Pública.
           type: integer
         - name: rmbh
+          title: RMBH
           type: string
+          description: Se pertence ou não à Região Metropolitana de Belo Horizonte.
     scheme: file
-    title: Insira um título humanamente legível para este recurso.
-title: Crimes violentos sejusp
+    title: Crimes Violentos 2025
+title: Crimes violentos
