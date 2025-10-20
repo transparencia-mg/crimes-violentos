@@ -1,6 +1,6 @@
 {
   "version": "4.16.6",
-  "time": 14.282,
+  "time": 14.419,
   "errors": [],
   "tasks": [
     {
@@ -76,7 +76,7 @@
           "rows": 133068
         }
       },
-      "time": 2.376,
+      "time": 2.372,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -177,7 +177,7 @@
           "rows": 133068
         }
       },
-      "time": 2.343,
+      "time": 2.382,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -278,7 +278,7 @@
           "rows": 133068
         }
       },
-      "time": 2.34,
+      "time": 2.37,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -379,7 +379,7 @@
           "rows": 133068
         }
       },
-      "time": 2.341,
+      "time": 2.39,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -480,7 +480,7 @@
           "rows": 133068
         }
       },
-      "time": 2.366,
+      "time": 2.37,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -581,7 +581,7 @@
           "rows": 133068
         }
       },
-      "time": 2.371,
+      "time": 2.395,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -682,7 +682,7 @@
           "rows": 0
         }
       },
-      "time": 0.084,
+      "time": 0.079,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -24596,10 +24596,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "ABADIA DOS DOURADOS",
             "310010",
-            "2",
+            "1",
             "2025",
             "RISP 10 - PATOS DE MINAS",
             "NÃO"
@@ -24624,10 +24624,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "ABAETE",
             "310020",
-            "2",
+            "1",
             "2025",
             "RISP 7 - DIVINÓPOLIS",
             "NÃO"
@@ -24651,11 +24651,11 @@
           "fieldNumber": 7,
           "fieldPosition": 7,
           "cells": [
-            "1",
-            "ESTUPRO CONSUMADO",
+            "0",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "ABRE-CAMPO",
             "310030",
-            "2",
+            "1",
             "2025",
             "RISP 12 - IPATINGA",
             "NÃO"
@@ -24680,10 +24680,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "ACAIACA",
             "310040",
-            "2",
+            "1",
             "2025",
             "RISP 12 - IPATINGA",
             "NÃO"
@@ -24708,10 +24708,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "ACUCENA",
             "310050",
-            "2",
+            "1",
             "2025",
             "RISP 12 - IPATINGA",
             "NÃO"
@@ -24736,10 +24736,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "AGUA BOA",
             "310060",
-            "2",
+            "1",
             "2025",
             "RISP 14 - CURVELO",
             "NÃO"
@@ -24764,10 +24764,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "AGUA COMPRIDA",
             "310070",
-            "2",
+            "1",
             "2025",
             "RISP 5 - UBERABA",
             "NÃO"
@@ -24792,10 +24792,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "AGUANIL",
             "310080",
-            "2",
+            "1",
             "2025",
             "RISP 6 - LAVRAS",
             "NÃO"
@@ -24820,10 +24820,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "AGUAS FORMOSAS",
             "310090",
-            "2",
+            "1",
             "2025",
             "RISP 15 - TEÓFILO OTONI",
             "NÃO"
@@ -24848,10 +24848,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "AGUAS VERMELHAS",
             "310100",
-            "2",
+            "1",
             "2025",
             "RISP 15 - TEÓFILO OTONI",
             "NÃO"
@@ -24875,11 +24875,11 @@
           "fieldNumber": 7,
           "fieldPosition": 7,
           "cells": [
-            "1",
-            "ESTUPRO CONSUMADO",
+            "0",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "AIMORES",
             "310110",
-            "2",
+            "1",
             "2025",
             "RISP 8 - GOV. VALADARES",
             "NÃO"
@@ -24904,10 +24904,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "AIURUOCA",
             "310120",
-            "2",
+            "1",
             "2025",
             "RISP 17 - POUSO ALEGRE",
             "NÃO"
@@ -24932,10 +24932,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "ALAGOA",
             "310130",
-            "2",
+            "1",
             "2025",
             "RISP 17 - POUSO ALEGRE",
             "NÃO"
@@ -24960,10 +24960,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "ALBERTINA",
             "310140",
-            "2",
+            "1",
             "2025",
             "RISP 17 - POUSO ALEGRE",
             "NÃO"
@@ -24987,11 +24987,11 @@
           "fieldNumber": 7,
           "fieldPosition": 7,
           "cells": [
-            "1",
-            "ESTUPRO CONSUMADO",
+            "0",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "ALEM PARAIBA",
             "310150",
-            "2",
+            "1",
             "2025",
             "RISP 4 - JUIZ DE FORA",
             "NÃO"
@@ -25016,10 +25016,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "ALFENAS",
             "310160",
-            "2",
+            "1",
             "2025",
             "RISP 18 - POÇOS DE CALDAS",
             "NÃO"
@@ -25044,10 +25044,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "ALFREDO VASCONCELOS",
             "310163",
-            "2",
+            "1",
             "2025",
             "RISP 13 - BARBACENA",
             "NÃO"
@@ -25072,10 +25072,10 @@
           "fieldPosition": 7,
           "cells": [
             "1",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "ALMENARA",
             "310170",
-            "2",
+            "1",
             "2025",
             "RISP 15 - TEÓFILO OTONI",
             "NÃO"
@@ -25100,10 +25100,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "ALPERCATA",
             "310180",
-            "2",
+            "1",
             "2025",
             "RISP 8 - GOV. VALADARES",
             "NÃO"
@@ -25128,10 +25128,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "ALPINOPOLIS",
             "310190",
-            "2",
+            "1",
             "2025",
             "RISP 18 - POÇOS DE CALDAS",
             "NÃO"
@@ -25156,10 +25156,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "ALTEROSA",
             "310200",
-            "2",
+            "1",
             "2025",
             "RISP 18 - POÇOS DE CALDAS",
             "NÃO"
@@ -25184,10 +25184,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "ALTO CAPARAO",
             "310205",
-            "2",
+            "1",
             "2025",
             "RISP 12 - IPATINGA",
             "NÃO"
@@ -25212,10 +25212,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "ALTO JEQUITIBA",
             "315350",
-            "2",
+            "1",
             "2025",
             "RISP 12 - IPATINGA",
             "NÃO"
@@ -25240,10 +25240,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "ALTO RIO DOCE",
             "310210",
-            "2",
+            "1",
             "2025",
             "RISP 13 - BARBACENA",
             "NÃO"
@@ -25267,11 +25267,11 @@
           "fieldNumber": 7,
           "fieldPosition": 7,
           "cells": [
-            "0",
-            "ESTUPRO CONSUMADO",
+            "1",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "ALVARENGA",
             "310220",
-            "2",
+            "1",
             "2025",
             "RISP 8 - GOV. VALADARES",
             "NÃO"
@@ -25296,10 +25296,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "ALVINOPOLIS",
             "310230",
-            "2",
+            "1",
             "2025",
             "RISP 12 - IPATINGA",
             "NÃO"
@@ -25324,10 +25324,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "ALVORADA DE MINAS",
             "310240",
-            "2",
+            "1",
             "2025",
             "RISP 14 - CURVELO",
             "NÃO"
@@ -25352,10 +25352,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "AMPARO DA SERRA",
             "310250",
-            "2",
+            "1",
             "2025",
             "RISP 12 - IPATINGA",
             "NÃO"
@@ -25379,11 +25379,11 @@
           "fieldNumber": 7,
           "fieldPosition": 7,
           "cells": [
-            "0",
-            "ESTUPRO CONSUMADO",
+            "1",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "ANDRADAS",
             "310260",
-            "2",
+            "1",
             "2025",
             "RISP 18 - POÇOS DE CALDAS",
             "NÃO"
@@ -25408,10 +25408,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "ANDRELANDIA",
             "310280",
-            "2",
+            "1",
             "2025",
             "RISP 13 - BARBACENA",
             "NÃO"
@@ -25436,10 +25436,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "ANGELANDIA",
             "310285",
-            "2",
+            "1",
             "2025",
             "RISP 14 - CURVELO",
             "NÃO"
@@ -25464,10 +25464,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "ANTONIO CARLOS",
             "310290",
-            "2",
+            "1",
             "2025",
             "RISP 13 - BARBACENA",
             "NÃO"
@@ -25492,10 +25492,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "ANTONIO DIAS",
             "310300",
-            "2",
+            "1",
             "2025",
             "RISP 12 - IPATINGA",
             "NÃO"
@@ -25520,10 +25520,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "ANTONIO PRADO DE MINAS",
             "310310",
-            "2",
+            "1",
             "2025",
             "RISP 4 - JUIZ DE FORA",
             "NÃO"
@@ -25548,10 +25548,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "ARACAI",
             "310320",
-            "2",
+            "1",
             "2025",
             "RISP 19 - SETE LAGOAS",
             "NÃO"
@@ -25576,10 +25576,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "ARACITABA",
             "310330",
-            "2",
+            "1",
             "2025",
             "RISP 13 - BARBACENA",
             "NÃO"
@@ -25604,10 +25604,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "ARACUAI",
             "310340",
-            "2",
+            "1",
             "2025",
             "RISP 15 - TEÓFILO OTONI",
             "NÃO"
@@ -25632,10 +25632,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "ARAGUARI",
             "310350",
-            "2",
+            "1",
             "2025",
             "RISP 9 - UBERLÂNDIA",
             "NÃO"
@@ -25660,10 +25660,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "ARANTINA",
             "310360",
-            "2",
+            "1",
             "2025",
             "RISP 13 - BARBACENA",
             "NÃO"
@@ -25687,11 +25687,11 @@
           "fieldNumber": 7,
           "fieldPosition": 7,
           "cells": [
-            "0",
-            "ESTUPRO CONSUMADO",
+            "1",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "ARAPONGA",
             "310370",
-            "2",
+            "1",
             "2025",
             "RISP 4 - JUIZ DE FORA",
             "NÃO"
@@ -25716,10 +25716,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "ARAPORA",
             "310375",
-            "2",
+            "1",
             "2025",
             "RISP 9 - UBERLÂNDIA",
             "NÃO"
@@ -25744,10 +25744,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "ARAPUA",
             "310380",
-            "2",
+            "1",
             "2025",
             "RISP 10 - PATOS DE MINAS",
             "NÃO"
@@ -25772,10 +25772,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "ARAUJOS",
             "310390",
-            "2",
+            "1",
             "2025",
             "RISP 7 - DIVINÓPOLIS",
             "NÃO"
@@ -25800,10 +25800,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "ARAXA",
             "310400",
-            "2",
+            "1",
             "2025",
             "RISP 5 - UBERABA",
             "NÃO"
@@ -25828,10 +25828,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "ARCEBURGO",
             "310410",
-            "2",
+            "1",
             "2025",
             "RISP 18 - POÇOS DE CALDAS",
             "NÃO"
@@ -25855,11 +25855,11 @@
           "fieldNumber": 7,
           "fieldPosition": 7,
           "cells": [
-            "0",
-            "ESTUPRO CONSUMADO",
+            "1",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "ARCOS",
             "310420",
-            "2",
+            "1",
             "2025",
             "RISP 7 - DIVINÓPOLIS",
             "NÃO"
@@ -25884,10 +25884,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "AREADO",
             "310430",
-            "2",
+            "1",
             "2025",
             "RISP 18 - POÇOS DE CALDAS",
             "NÃO"
@@ -25911,11 +25911,11 @@
           "fieldNumber": 7,
           "fieldPosition": 7,
           "cells": [
-            "0",
-            "ESTUPRO CONSUMADO",
+            "1",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "ARGIRITA",
             "310440",
-            "2",
+            "1",
             "2025",
             "RISP 4 - JUIZ DE FORA",
             "NÃO"
@@ -25940,10 +25940,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "ARICANDUVA",
             "310445",
-            "2",
+            "1",
             "2025",
             "RISP 14 - CURVELO",
             "NÃO"
@@ -25967,11 +25967,11 @@
           "fieldNumber": 7,
           "fieldPosition": 7,
           "cells": [
-            "1",
-            "ESTUPRO CONSUMADO",
+            "0",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "ARINOS",
             "310450",
-            "2",
+            "1",
             "2025",
             "RISP 16 - UNAÍ",
             "NÃO"
@@ -25996,10 +25996,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "ASTOLFO DUTRA",
             "310460",
-            "2",
+            "1",
             "2025",
             "RISP 4 - JUIZ DE FORA",
             "NÃO"
@@ -26024,10 +26024,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "ATALEIA",
             "310470",
-            "2",
+            "1",
             "2025",
             "RISP 15 - TEÓFILO OTONI",
             "NÃO"
@@ -26052,10 +26052,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "AUGUSTO DE LIMA",
             "310480",
-            "2",
+            "1",
             "2025",
             "RISP 14 - CURVELO",
             "NÃO"
@@ -26080,10 +26080,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "BAEPENDI",
             "310490",
-            "2",
+            "1",
             "2025",
             "RISP 17 - POUSO ALEGRE",
             "NÃO"
@@ -26107,11 +26107,11 @@
           "fieldNumber": 7,
           "fieldPosition": 7,
           "cells": [
-            "0",
-            "ESTUPRO CONSUMADO",
+            "1",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "BALDIM",
             "310500",
-            "2",
+            "1",
             "2025",
             "RISP 19 - SETE LAGOAS",
             "SIM"
@@ -26136,10 +26136,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "BAMBUI",
             "310510",
-            "2",
+            "1",
             "2025",
             "RISP 7 - DIVINÓPOLIS",
             "NÃO"
@@ -26164,10 +26164,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "BANDEIRA",
             "310520",
-            "2",
+            "1",
             "2025",
             "RISP 15 - TEÓFILO OTONI",
             "NÃO"
@@ -26192,10 +26192,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "BANDEIRA DO SUL",
             "310530",
-            "2",
+            "1",
             "2025",
             "RISP 18 - POÇOS DE CALDAS",
             "NÃO"
@@ -26219,11 +26219,11 @@
           "fieldNumber": 7,
           "fieldPosition": 7,
           "cells": [
-            "1",
-            "ESTUPRO CONSUMADO",
+            "2",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "BARAO DE COCAIS",
             "310540",
-            "2",
+            "1",
             "2025",
             "RISP 12 - IPATINGA",
             "NÃO"
@@ -26247,11 +26247,11 @@
           "fieldNumber": 7,
           "fieldPosition": 7,
           "cells": [
-            "0",
-            "ESTUPRO CONSUMADO",
+            "1",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "BARAO DO MONTE ALTO",
             "310550",
-            "2",
+            "1",
             "2025",
             "RISP 4 - JUIZ DE FORA",
             "NÃO"
@@ -26275,11 +26275,11 @@
           "fieldNumber": 7,
           "fieldPosition": 7,
           "cells": [
-            "0",
-            "ESTUPRO CONSUMADO",
+            "1",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "BARBACENA",
             "310560",
-            "2",
+            "1",
             "2025",
             "RISP 13 - BARBACENA",
             "NÃO"
@@ -26304,10 +26304,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "BARRA LONGA",
             "310570",
-            "2",
+            "1",
             "2025",
             "RISP 12 - IPATINGA",
             "NÃO"
@@ -26332,10 +26332,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "BARROSO",
             "310590",
-            "2",
+            "1",
             "2025",
             "RISP 13 - BARBACENA",
             "NÃO"
@@ -26360,10 +26360,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "BELA VISTA DE MINAS",
             "310600",
-            "2",
+            "1",
             "2025",
             "RISP 12 - IPATINGA",
             "NÃO"
@@ -26388,10 +26388,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "BELMIRO BRAGA",
             "310610",
-            "2",
+            "1",
             "2025",
             "RISP 4 - JUIZ DE FORA",
             "NÃO"
@@ -26415,11 +26415,11 @@
           "fieldNumber": 7,
           "fieldPosition": 7,
           "cells": [
-            "20",
-            "ESTUPRO CONSUMADO",
+            "30",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "BELO HORIZONTE",
             "310620",
-            "2",
+            "1",
             "2025",
             "RISP 1 - BH",
             "NÃO"
@@ -26443,11 +26443,11 @@
           "fieldNumber": 7,
           "fieldPosition": 7,
           "cells": [
-            "0",
-            "ESTUPRO CONSUMADO",
+            "1",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "BELO ORIENTE",
             "310630",
-            "2",
+            "1",
             "2025",
             "RISP 12 - IPATINGA",
             "NÃO"
@@ -26472,10 +26472,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "BELO VALE",
             "310640",
-            "2",
+            "1",
             "2025",
             "RISP 13 - BARBACENA",
             "NÃO"
@@ -26500,10 +26500,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "BERILO",
             "310650",
-            "2",
+            "1",
             "2025",
             "RISP 14 - CURVELO",
             "NÃO"
@@ -26528,10 +26528,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "BERIZAL",
             "310665",
-            "2",
+            "1",
             "2025",
             "RISP 11 - MONTES CLAROS",
             "NÃO"
@@ -26556,10 +26556,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "BERTOPOLIS",
             "310660",
-            "2",
+            "1",
             "2025",
             "RISP 15 - TEÓFILO OTONI",
             "NÃO"
@@ -26583,11 +26583,11 @@
           "fieldNumber": 7,
           "fieldPosition": 7,
           "cells": [
-            "3",
-            "ESTUPRO CONSUMADO",
+            "8",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "BETIM",
             "310670",
-            "2",
+            "1",
             "2025",
             "RISP 2 - CONTAGEM",
             "SIM"
@@ -26612,10 +26612,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "BIAS FORTES",
             "310680",
-            "2",
+            "1",
             "2025",
             "RISP 13 - BARBACENA",
             "NÃO"
@@ -26639,11 +26639,11 @@
           "fieldNumber": 7,
           "fieldPosition": 7,
           "cells": [
-            "1",
-            "ESTUPRO CONSUMADO",
+            "0",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "BICAS",
             "310690",
-            "2",
+            "1",
             "2025",
             "RISP 4 - JUIZ DE FORA",
             "NÃO"
@@ -26668,10 +26668,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "BIQUINHAS",
             "310700",
-            "2",
+            "1",
             "2025",
             "RISP 7 - DIVINÓPOLIS",
             "NÃO"
@@ -26695,11 +26695,11 @@
           "fieldNumber": 7,
           "fieldPosition": 7,
           "cells": [
-            "0",
-            "ESTUPRO CONSUMADO",
+            "1",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "BOA ESPERANCA",
             "310710",
-            "2",
+            "1",
             "2025",
             "RISP 6 - LAVRAS",
             "NÃO"
@@ -26724,10 +26724,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "BOCAINA DE MINAS",
             "310720",
-            "2",
+            "1",
             "2025",
             "RISP 17 - POUSO ALEGRE",
             "NÃO"
@@ -26752,10 +26752,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "BOCAIUVA",
             "310730",
-            "2",
+            "1",
             "2025",
             "RISP 11 - MONTES CLAROS",
             "NÃO"
@@ -26779,11 +26779,11 @@
           "fieldNumber": 7,
           "fieldPosition": 7,
           "cells": [
-            "0",
-            "ESTUPRO CONSUMADO",
+            "1",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "BOM DESPACHO",
             "310740",
-            "2",
+            "1",
             "2025",
             "RISP 7 - DIVINÓPOLIS",
             "NÃO"
@@ -26808,10 +26808,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "BOM JARDIM DE MINAS",
             "310750",
-            "2",
+            "1",
             "2025",
             "RISP 13 - BARBACENA",
             "NÃO"
@@ -26836,10 +26836,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "BOM JESUS DA PENHA",
             "310760",
-            "2",
+            "1",
             "2025",
             "RISP 18 - POÇOS DE CALDAS",
             "NÃO"
@@ -26864,10 +26864,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "BOM JESUS DO AMPARO",
             "310770",
-            "2",
+            "1",
             "2025",
             "RISP 12 - IPATINGA",
             "NÃO"
@@ -26892,10 +26892,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "BOM JESUS DO GALHO",
             "310780",
-            "2",
+            "1",
             "2025",
             "RISP 12 - IPATINGA",
             "NÃO"
@@ -26920,10 +26920,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "BOM REPOUSO",
             "310790",
-            "2",
+            "1",
             "2025",
             "RISP 17 - POUSO ALEGRE",
             "NÃO"
@@ -26948,10 +26948,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "BOM SUCESSO",
             "310800",
-            "2",
+            "1",
             "2025",
             "RISP 6 - LAVRAS",
             "NÃO"
@@ -26976,10 +26976,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "BONFIM",
             "310810",
-            "2",
+            "1",
             "2025",
             "RISP 2 - CONTAGEM",
             "NÃO"
@@ -27004,10 +27004,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "BONFINOPOLIS DE MINAS",
             "310820",
-            "2",
+            "1",
             "2025",
             "RISP 16 - UNAÍ",
             "NÃO"
@@ -27032,10 +27032,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "BONITO DE MINAS",
             "310825",
-            "2",
+            "1",
             "2025",
             "RISP 11 - MONTES CLAROS",
             "NÃO"
@@ -27060,10 +27060,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "BORDA DA MATA",
             "310830",
-            "2",
+            "1",
             "2025",
             "RISP 17 - POUSO ALEGRE",
             "NÃO"
@@ -27088,10 +27088,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "BOTELHOS",
             "310840",
-            "2",
+            "1",
             "2025",
             "RISP 18 - POÇOS DE CALDAS",
             "NÃO"
@@ -27116,10 +27116,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "BOTUMIRIM",
             "310850",
-            "2",
+            "1",
             "2025",
             "RISP 11 - MONTES CLAROS",
             "NÃO"
@@ -27144,10 +27144,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "BRAS PIRES",
             "310870",
-            "2",
+            "1",
             "2025",
             "RISP 4 - JUIZ DE FORA",
             "NÃO"
@@ -27172,10 +27172,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "BRASILANDIA DE MINAS",
             "310855",
-            "2",
+            "1",
             "2025",
             "RISP 16 - UNAÍ",
             "NÃO"
@@ -27199,11 +27199,11 @@
           "fieldNumber": 7,
           "fieldPosition": 7,
           "cells": [
-            "0",
-            "ESTUPRO CONSUMADO",
+            "1",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "BRASILIA DE MINAS",
             "310860",
-            "2",
+            "1",
             "2025",
             "RISP 11 - MONTES CLAROS",
             "NÃO"
@@ -27228,10 +27228,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "BRASOPOLIS",
             "310890",
-            "2",
+            "1",
             "2025",
             "RISP 17 - POUSO ALEGRE",
             "NÃO"
@@ -27256,10 +27256,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "BRAUNAS",
             "310880",
-            "2",
+            "1",
             "2025",
             "RISP 12 - IPATINGA",
             "NÃO"
@@ -27284,10 +27284,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "BRUMADINHO",
             "310900",
-            "2",
+            "1",
             "2025",
             "RISP 2 - CONTAGEM",
             "SIM"
@@ -27312,10 +27312,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "BUENO BRANDAO",
             "310910",
-            "2",
+            "1",
             "2025",
             "RISP 17 - POUSO ALEGRE",
             "NÃO"
@@ -27340,10 +27340,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "BUENOPOLIS",
             "310920",
-            "2",
+            "1",
             "2025",
             "RISP 14 - CURVELO",
             "NÃO"
@@ -27368,10 +27368,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "BUGRE",
             "310925",
-            "2",
+            "1",
             "2025",
             "RISP 12 - IPATINGA",
             "NÃO"
@@ -27395,11 +27395,11 @@
           "fieldNumber": 7,
           "fieldPosition": 7,
           "cells": [
-            "0",
-            "ESTUPRO CONSUMADO",
+            "1",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "BURITIS",
             "310930",
-            "2",
+            "1",
             "2025",
             "RISP 16 - UNAÍ",
             "NÃO"
@@ -27424,10 +27424,10 @@
           "fieldPosition": 7,
           "cells": [
             "1",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "BURITIZEIRO",
             "310940",
-            "2",
+            "1",
             "2025",
             "RISP 14 - CURVELO",
             "NÃO"
@@ -27452,10 +27452,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "CABECEIRA GRANDE",
             "310945",
-            "2",
+            "1",
             "2025",
             "RISP 16 - UNAÍ",
             "NÃO"
@@ -27479,11 +27479,11 @@
           "fieldNumber": 7,
           "fieldPosition": 7,
           "cells": [
-            "0",
-            "ESTUPRO CONSUMADO",
+            "1",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "CABO VERDE",
             "310950",
-            "2",
+            "1",
             "2025",
             "RISP 18 - POÇOS DE CALDAS",
             "NÃO"
@@ -27508,10 +27508,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "CACHOEIRA DA PRATA",
             "310960",
-            "2",
+            "1",
             "2025",
             "RISP 19 - SETE LAGOAS",
             "NÃO"
@@ -27535,11 +27535,11 @@
           "fieldNumber": 7,
           "fieldPosition": 7,
           "cells": [
-            "1",
-            "ESTUPRO CONSUMADO",
+            "0",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "CACHOEIRA DE MINAS",
             "310970",
-            "2",
+            "1",
             "2025",
             "RISP 17 - POUSO ALEGRE",
             "NÃO"
@@ -27564,10 +27564,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "CACHOEIRA DE PAJEU",
             "310270",
-            "2",
+            "1",
             "2025",
             "RISP 15 - TEÓFILO OTONI",
             "NÃO"
@@ -27591,11 +27591,11 @@
           "fieldNumber": 7,
           "fieldPosition": 7,
           "cells": [
-            "1",
-            "ESTUPRO CONSUMADO",
+            "0",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "CACHOEIRA DOURADA",
             "310980",
-            "2",
+            "1",
             "2025",
             "RISP 9 - UBERLÂNDIA",
             "NÃO"
@@ -27620,10 +27620,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "CAETANOPOLIS",
             "310990",
-            "2",
+            "1",
             "2025",
             "RISP 19 - SETE LAGOAS",
             "NÃO"
@@ -27648,10 +27648,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "CAETE",
             "311000",
-            "2",
+            "1",
             "2025",
             "RISP 3 - VESPASIANO",
             "SIM"
@@ -27676,10 +27676,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "CAIANA",
             "311010",
-            "2",
+            "1",
             "2025",
             "RISP 12 - IPATINGA",
             "NÃO"
@@ -27703,11 +27703,11 @@
           "fieldNumber": 7,
           "fieldPosition": 7,
           "cells": [
-            "0",
-            "ESTUPRO CONSUMADO",
+            "1",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "CAJURI",
             "311020",
-            "2",
+            "1",
             "2025",
             "RISP 4 - JUIZ DE FORA",
             "NÃO"
@@ -27732,10 +27732,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "CALDAS",
             "311030",
-            "2",
+            "1",
             "2025",
             "RISP 18 - POÇOS DE CALDAS",
             "NÃO"
@@ -27760,10 +27760,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "CAMACHO",
             "311040",
-            "2",
+            "1",
             "2025",
             "RISP 7 - DIVINÓPOLIS",
             "NÃO"
@@ -27788,10 +27788,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "CAMANDUCAIA",
             "311050",
-            "2",
+            "1",
             "2025",
             "RISP 17 - POUSO ALEGRE",
             "NÃO"
@@ -27816,10 +27816,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "CAMBUI",
             "311060",
-            "2",
+            "1",
             "2025",
             "RISP 17 - POUSO ALEGRE",
             "NÃO"
@@ -27844,10 +27844,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "CAMBUQUIRA",
             "311070",
-            "2",
+            "1",
             "2025",
             "RISP 6 - LAVRAS",
             "NÃO"
@@ -27872,10 +27872,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "CAMPANARIO",
             "311080",
-            "2",
+            "1",
             "2025",
             "RISP 15 - TEÓFILO OTONI",
             "NÃO"
@@ -27899,11 +27899,11 @@
           "fieldNumber": 7,
           "fieldPosition": 7,
           "cells": [
-            "0",
-            "ESTUPRO CONSUMADO",
+            "1",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "CAMPANHA",
             "311090",
-            "2",
+            "1",
             "2025",
             "RISP 6 - LAVRAS",
             "NÃO"
@@ -27928,10 +27928,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "CAMPESTRE",
             "311100",
-            "2",
+            "1",
             "2025",
             "RISP 18 - POÇOS DE CALDAS",
             "NÃO"
@@ -27956,10 +27956,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "CAMPINA VERDE",
             "311110",
-            "2",
+            "1",
             "2025",
             "RISP 5 - UBERABA",
             "NÃO"
@@ -27984,10 +27984,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "CAMPO AZUL",
             "311115",
-            "2",
+            "1",
             "2025",
             "RISP 11 - MONTES CLAROS",
             "NÃO"
@@ -28011,11 +28011,11 @@
           "fieldNumber": 7,
           "fieldPosition": 7,
           "cells": [
-            "0",
-            "ESTUPRO CONSUMADO",
+            "1",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "CAMPO BELO",
             "311120",
-            "2",
+            "1",
             "2025",
             "RISP 6 - LAVRAS",
             "NÃO"
@@ -28040,10 +28040,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "CAMPO DO MEIO",
             "311130",
-            "2",
+            "1",
             "2025",
             "RISP 18 - POÇOS DE CALDAS",
             "NÃO"
@@ -28068,10 +28068,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "CAMPO FLORIDO",
             "311140",
-            "2",
+            "1",
             "2025",
             "RISP 5 - UBERABA",
             "NÃO"
@@ -28096,10 +28096,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "CAMPOS ALTOS",
             "311150",
-            "2",
+            "1",
             "2025",
             "RISP 5 - UBERABA",
             "NÃO"
@@ -28123,11 +28123,11 @@
           "fieldNumber": 7,
           "fieldPosition": 7,
           "cells": [
-            "0",
-            "ESTUPRO CONSUMADO",
+            "1",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "CAMPOS GERAIS",
             "311160",
-            "2",
+            "1",
             "2025",
             "RISP 18 - POÇOS DE CALDAS",
             "NÃO"
@@ -28152,10 +28152,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "CANA VERDE",
             "311190",
-            "2",
+            "1",
             "2025",
             "RISP 6 - LAVRAS",
             "NÃO"
@@ -28180,10 +28180,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "CANAA",
             "311170",
-            "2",
+            "1",
             "2025",
             "RISP 4 - JUIZ DE FORA",
             "NÃO"
@@ -28208,10 +28208,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "CANAPOLIS",
             "311180",
-            "2",
+            "1",
             "2025",
             "RISP 9 - UBERLÂNDIA",
             "NÃO"
@@ -28236,10 +28236,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "CANDEIAS",
             "311200",
-            "2",
+            "1",
             "2025",
             "RISP 6 - LAVRAS",
             "NÃO"
@@ -28264,10 +28264,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "CANTAGALO",
             "311205",
-            "2",
+            "1",
             "2025",
             "RISP 8 - GOV. VALADARES",
             "NÃO"
@@ -28292,10 +28292,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "CAPARAO",
             "311210",
-            "2",
+            "1",
             "2025",
             "RISP 12 - IPATINGA",
             "NÃO"
@@ -28320,10 +28320,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "CAPELA NOVA",
             "311220",
-            "2",
+            "1",
             "2025",
             "RISP 13 - BARBACENA",
             "NÃO"
@@ -28348,10 +28348,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "CAPELINHA",
             "311230",
-            "2",
+            "1",
             "2025",
             "RISP 14 - CURVELO",
             "NÃO"
@@ -28375,11 +28375,11 @@
           "fieldNumber": 7,
           "fieldPosition": 7,
           "cells": [
-            "0",
-            "ESTUPRO CONSUMADO",
+            "1",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "CAPETINGA",
             "311240",
-            "2",
+            "1",
             "2025",
             "RISP 18 - POÇOS DE CALDAS",
             "NÃO"
@@ -28404,10 +28404,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "CAPIM BRANCO",
             "311250",
-            "2",
+            "1",
             "2025",
             "RISP 19 - SETE LAGOAS",
             "SIM"
@@ -28431,11 +28431,11 @@
           "fieldNumber": 7,
           "fieldPosition": 7,
           "cells": [
-            "0",
-            "ESTUPRO CONSUMADO",
+            "1",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "CAPINOPOLIS",
             "311260",
-            "2",
+            "1",
             "2025",
             "RISP 9 - UBERLÂNDIA",
             "NÃO"
@@ -28460,10 +28460,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "CAPITAO ANDRADE",
             "311265",
-            "2",
+            "1",
             "2025",
             "RISP 8 - GOV. VALADARES",
             "NÃO"
@@ -28488,10 +28488,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "CAPITAO ENEIAS",
             "311270",
-            "2",
+            "1",
             "2025",
             "RISP 11 - MONTES CLAROS",
             "NÃO"
@@ -28516,10 +28516,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "CAPITOLIO",
             "311280",
-            "2",
+            "1",
             "2025",
             "RISP 18 - POÇOS DE CALDAS",
             "NÃO"
@@ -28544,10 +28544,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "CAPUTIRA",
             "311290",
-            "2",
+            "1",
             "2025",
             "RISP 12 - IPATINGA",
             "NÃO"
@@ -28572,10 +28572,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "CARAI",
             "311300",
-            "2",
+            "1",
             "2025",
             "RISP 15 - TEÓFILO OTONI",
             "NÃO"
@@ -28600,10 +28600,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "CARANAIBA",
             "311310",
-            "2",
+            "1",
             "2025",
             "RISP 13 - BARBACENA",
             "NÃO"
@@ -28628,10 +28628,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "CARANDAI",
             "311320",
-            "2",
+            "1",
             "2025",
             "RISP 13 - BARBACENA",
             "NÃO"
@@ -28656,10 +28656,10 @@
           "fieldPosition": 7,
           "cells": [
             "0",
-            "ESTUPRO CONSUMADO",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "CARANGOLA",
             "311330",
-            "2",
+            "1",
             "2025",
             "RISP 4 - JUIZ DE FORA",
             "NÃO"
@@ -28683,11 +28683,11 @@
           "fieldNumber": 7,
           "fieldPosition": 7,
           "cells": [
-            "0",
-            "ESTUPRO CONSUMADO",
+            "2",
+            "ESTUPRO DE VULNERAVEL CONSUMADO",
             "CARATINGA",
             "311340",
-            "2",
+            "1",
             "2025",
             "RISP 12 - IPATINGA",
             "NÃO"
