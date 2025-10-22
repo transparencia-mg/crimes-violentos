@@ -6,7 +6,7 @@ O Armazém_Sids_Reds compila todos os REDS registrados em Minas Gerais, para tod
 
 Para os Registros de Homicídios Consumados de Belo Horizonte, até dezembro de 2020, foram utilizados os dados da Polícia Civil de Minas Gerais (PCMG), já que, dessa forma, são incluídas informações mais completas, oriundas de instauração de inquéritos policiais.
 
-A Região Integrada de Segurança Pública – RISP é uma das divisões territoriais administrativas existentes no estado de Minas Gerais e a mais frequentemente utilizada em estudos da SEJUSP, além da divisão por municípios. Atualmente, Minas Gerais possui 19 RISPs...
+A Região Integrada de Segurança Pública – RISP é uma das divisões territoriais administrativas existentes no estado de Minas Gerais e a mais frequentemente utilizada em estudos da SEJUSP, além da divisão por municípios. Atualmente, Minas Gerais possui 19 RISPs.
 
 ## Metodologia Utilizada
 
@@ -34,4 +34,5 @@ Além disso, fique a vontade para utilizar os demais canais oficiais de atendime
 - [Pedido de Acesso à Informação](http://www.acessoainformacao.mg.gov.br/sistema/site/index.html): Acesso às informações dos órgãos e entidades estaduais que não estejam publicamente disponíveis.
 
 Além disso, como o REDS é dinâmico, um novo registro pode ser feito com a data do fato referente a qualquer mês ou ano anterior. Por isso, em uma pesquisa buscam-se os dados dos três meses anteriores. Como exemplo, na extração feita em 06 de agosto de 2018, foram buscados dados de maio, junho e julho de 2018. Dessa forma, os REDS inseridos em julho de 2018, mas que fazem referência a um fato acontecido em maio de 2018, também serão incluídos..
+
 
